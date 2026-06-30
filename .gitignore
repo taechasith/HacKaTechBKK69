@@ -1,0 +1,29 @@
+# Antigravity CLI Config
+.antigravitycli/
+
+# OS Files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# IDE / Editor Files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Node / Dependency Directories
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Python cache & virtualenv
+__pycache__/
+*.pyc
+.venv/
+env/
+venv/

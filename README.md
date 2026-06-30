@@ -1,67 +1,77 @@
-# HacKaTech BKK 69 Project Archive 🇹🇭
+# 🛸 HacKaTech BKK 69: The Ultimate Youth Civic Tech Archive 🇹🇭
 
-> **Co-Creating Bangkok's Future through Open-Source Youth Innovation**  
-> *คลังจัดเก็บผลงานและซอร์สโค้ดโอเพนซอร์สของเยาวชนในการพัฒนาเมืองกรุงเทพมหานคร พ.ศ. 2569*
+<p align="center">
+  <img src="assets/header.png" alt="HacKaTech BKK 69 Banner" width="100%" style="border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.4);" />
+</p>
 
-Welcome to the official public archive for **HacKaTech BKK 69** (HacKaTech Bangkok 2569 BE / 2026 CE). 
-
-Held from **June 18-20, 2026**, at the NEXTOPIA Community Center (Siam Paragon), HacKaTech BKK 69 brought together Thai youth aged 15-24 to design open-source, politically neutral technology prototypes tackling Bangkok's critical urban challenges. The hackathon culminated in a live policy debate on-stage with Bangkok Gubernatorial candidates just one week before the historic **June 28, 2026 Bangkok Governor Election**.
-
-This repository serves as a permanent, structured public record of the submitted projects, preserving the hard work of these teen builders for future educators, sponsors, civic tech communities, and urban policymakers.
+> **"Code the city before the city codes you."**  
+> *เมื่อวัยรุ่นขอเคลียร์เส้นทาง ปูพรมรหัสโอเพนซอร์สเพื่อลุยเมืองกรุงเทพฯ พ.ศ. 2569*
 
 ---
 
-## 📂 Repository Structure
+## ⚡ Hey, Yo! What is this?
+Welcome to the handcrafted, official time-capsule repository of **HacKaTech BKK 69** (BE 2569 / 2026 CE)! 
 
-*   [`data/projects.json`](./data/projects.json) - Machine-readable index of all projects.
-*   [`projects/`](./projects/) - Individual Markdown files documenting each project's description, creator credit, and tech stack.
-*   [`docs/event-archive.md`](./docs/event-archive.md) - A narrative archive explaining the event goals and significance.
-*   [`docs/credits.md`](./docs/credits.md) - Clean credits page listing all projects and organizing partners.
-*   [`docs/methodology.md`](./docs/methodology.md) - Technical explanation of how this archive was created, normalized, and verified.
+From **June 18-20, 2026**, Bangkok's most active teen builders (ages 15–24) locked themselves in the NEXTOPIA Community Center (Siam Paragon). The mission? Build open-source, politically neutral city tech. The twist? A week later was the **June 28, 2026 Bangkok Governor Election**, and our top teams pitched their working code live on-stage directly to the Gubernatorial Candidates!
 
----
-
-## 🏛️ Project Gallery
-
-Below is a gallery of the 22 projects archived from the hackathon submissions:
-
-| Project Name | Primary Creator / Team | Civic Area | Stack | Link | Status |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| **BKFloodSnap** | `16Krae` | Flooding | HTML/JS | [Link](https://github.com/16Krae/BKFloodSnap) | `ACTIVE` |
-| **SubSense BKK** | Team "I love My Job" | Public Infrastructure | JS / GIS | [Link](https://github.com/picellmeem/subsense-bkk) | `ACTIVE` |
-| **CoolZone** | `Lewyns` | Environment | Python / JS | [Link](https://github.com/Lewyns/coolzone) | `ACTIVE` |
-| **Welfare Gap Finder** | `pngkcwtk` | Welfare | Python / RAG | [Link](https://github.com/pngkcwtk/Welfare-Gap-Finder) | `ACTIVE` |
-| **Thinkkhaya** | Team "SixDucks" | Environment / Waste | Arduino / C++ | [Link](https://github.com/TleNotGoodAtPython/hackatech-public-SixDucks) | `ACTIVE` |
-| **CareKan** | Team "เจ็ดจริงดิ!" | Public Health | React / Express | [Link](https://github.com/ksrddd/hackatech-CareKan) | `ACTIVE` |
-| **TransitFlow** | Team "Flip flops" | Mobility | Node.js | [Link](https://github.com/pluemW1/transitflow) | `ACTIVE` |
-| **CityFlowBKK** | `tanth123-h` | Mobility | Android | [Link](https://github.com/tanth123-h/CityFlowBKK) | `ACTIVE` |
-| **Abjust (แอบจัดส์)** | `wwwx3` | Mobility / Safety | React | [Link](https://github.com/wwwx3/JustServexRoadWisdom-) | `ACTIVE` |
-| **Flow** | `nicenathapong` | Mobility | JavaScript | [Link](https://github.com/nicenathapong/flow) | `ACTIVE` |
-| **Smart Shade & Light** | RBAC Team | Public Infrastructure | HTML/JS | [Link](https://oshik2551-cmd.github.io/smartpole/) | `ACTIVE` |
-| **Meetfan** | `siwakron12` | Public Services | Next.js | [Link](https://github.com/siwakron12/Meetfan) | `ACTIVE` |
-| **Meetfans** | `razfordz` | Public Services | Next.js | [Link](https://github.com/razfordz/Meetfans) | `ACTIVE` |
-| **BkkMicroflow** | `MyTxweProgrammit` | Flooding | Unspecified | [Link](https://github.com/MyTxweProgrammit/BkkMicroflow) | `ACTIVE` |
-| **Loop to Token** | `SOGUY144` | Environment | Unspecified | [Link](https://github.com/SOGUY144/loop-to-token) | `ACTIVE` |
-| **JaiD (ใจดี)** | `Saltypoptato` | Welfare | Unspecified | [Link](https://github.com/Saltypoptato/JaiD) | `ACTIVE` |
-| **FangMueang (ผังเมือง)** | `Ikkiw06` | Urban Planning | Unspecified | [Link](https://github.com/Ikkiw06/fangmueang) | `ACTIVE` |
-| **Thairutan (ไทยรู้ทัน)** | `bexm169-ops` | Community Safety | Unspecified | [Link](https://github.com/bexm169-ops/Thairutan_) | `ACTIVE` |
-| **UrbanFlow** | `Jaturapat-Buak` | Mobility | JS / Node | [Link](https://github.com/Jaturapat-Buak/UrbanFlow) | `ACTIVE` |
-| **Hackatechwork** | `46045-lab` | Unknown | Unspecified | [Link](https://46045-lab.github.io/Hackatechwork/) | `INACTIVE_404` |
-| **chicken.4r1n-hackatech-2026** | `Lewyns` | Unknown | Unspecified | [Link](https://github.com/Lewyns/chicken.4r1n-hackatech-2026) | `INACTIVE_404` |
-| **Bubble Ideas Hub** | `Kulachat2` | Unknown | Unspecified | [Link](https://github.com/Kulachat2/bubble-ideas-hub) | `INACTIVE_404` |
+This repository archives the actual software, hardware, and deployment repositories built during those crazy 3 days. No marketing fluff, no boring PDF lists—just pure developer-to-developer public goods.
 
 ---
 
-## 📌 Ownership, Attribution & Licensing
-*   **No ownership transfer:** All repository code bases, assets, and documentation remain the exclusive intellectual property of the original hackathon participants.
-*   **Neutrality:** This archive is built and hosted as a non-partisan community service.
-*   **Attribution:** Every project file in [`projects/`](./projects/) links back to the original author's repository. No licenses have been assumed unless explicitly declared by the creators in their own files.
+## 📂 Repository Blueprint
+*   📂 [`data/projects.json`](./data/projects.json) - Machine-readable JSON database. Perfect for hackers looking to scrape or build directories.
+*   📂 [`projects/`](./projects/) - Deep-dives into each project, bilingual summaries, and the tech specs of what makes them tick.
+*   📂 [`docs/event-archive.md`](./docs/event-archive.md) - The full narrative, key goals, and why teen-led civic tech is the absolute secret weapon for Thailand.
+*   📂 [`docs/credits.md`](./docs/credits.md) - Shout-outs to every single human and partner who made this happen.
+*   📂 [`docs/methodology.md`](./docs/methodology.md) - The nerd specs of how we collected, normalized, and verified these links.
 
 ---
 
-## 🤝 Event Partners & Organizers
-This archive is maintained in partnership with the organizers of **HacKaTech BKK 69**:
-*   **CIA CreativeLab**
-*   **Resilience Collective Thailand** (in collaboration with the **MIT Urban Risk Lab**)
-*   **NEXTOPIA** (Siam Paragon)
-*   **QBraid**
+## 🛠️ The 19 Active Project Gallery
+
+Here are the active repos that survived the code storm and are ready for you to explore:
+
+| Project Name | Primary Creator / Team | Civic Focus | Tech Stack | Link |
+| :--- | :--- | :--- | :--- | :--- |
+| **BKFloodSnap** | `16Krae` | 🌊 Flooding | HTML/JS | [Source](https://github.com/16Krae/BKFloodSnap) |
+| **SubSense BKK** | Team "I love My Job" | 🛰️ Infrastructure | JS / BMA GIS | [Source](https://github.com/picellmeem/subsense-bkk) |
+| **CoolZone** | `Lewyns` | 🌡️ Environment | Python / JS | [Source](https://github.com/Lewyns/coolzone) |
+| **Welfare Gap Finder** | `pngkcwtk` | ⚖️ Welfare | Python / RAG / Typhoon | [Source](https://github.com/pngkcwtk/Welfare-Gap-Finder) |
+| **Thinkkhaya** | Team "SixDucks" | ♻️ Waste / IoT | Arduino / C++ | [Source](https://github.com/TleNotGoodAtPython/hackatech-public-SixDucks) |
+| **CareKan** | Team "เจ็ดจริงดิ!" | 🏥 Health | React / Express | [Source](https://github.com/ksrddd/hackatech-CareKan) |
+| **TransitFlow** | Team "Flip flops" | 🚌 Mobility | Node.js | [Source](https://github.com/pluemW1/transitflow) |
+| **CityFlowBKK** | `tanth123-h` | 🚇 Mobility | Android | [Source](https://github.com/tanth123-h/CityFlowBKK) |
+| **Abjust (แอบจัดส์)** | `wwwx3` | 🚨 Mobility / Safety | React | [Source](https://github.com/wwwx3/JustServexRoadWisdom-) |
+| **Flow** | `nicenathapong` | 📅 Mobility | JavaScript | [Source](https://github.com/nicenathapong/flow) |
+| **Smart Shade & Light** | RBAC Team | 💡 Infrastructure | HTML/JS | [Site](https://oshik2551-cmd.github.io/smartpole/) |
+| **Meetfan** | `siwakron12` | 👥 Public Services | Next.js | [Source](https://github.com/siwakron12/Meetfan) |
+| **Meetfans** | `razfordz` | 👥 Public Services | Next.js | [Source](https://github.com/razfordz/Meetfans) |
+| **BkkMicroflow** | `MyTxweProgrammit` | 🌊 Flooding | Unspecified | [Source](https://github.com/MyTxweProgrammit/BkkMicroflow) |
+| **Loop to Token** | `SOGUY144` | ♻️ Environment | Unspecified | [Source](https://github.com/SOGUY144/loop-to-token) |
+| **JaiD (ใจดี)** | `Saltypoptato` | 🤝 Welfare | Unspecified | [Source](https://github.com/Saltypoptato/JaiD) |
+| **FangMueang (ผังเมือง)** | `Ikkiw06` | 🗺️ Urban Planning | Unspecified | [Source](https://github.com/Ikkiw06/fangmueang) |
+| **Thairutan (ไทยรู้ทัน)** | `bexm169-ops` | 📢 Community Safety | Unspecified | [Source](https://github.com/bexm169-ops/Thairutan_) |
+| **UrbanFlow** | `Jaturapat-Buak` | 🚗 Mobility | JS / Node | [Source](https://github.com/Jaturapat-Buak/UrbanFlow) |
+
+---
+
+## 🤝 Event Co-Creators & Partners
+
+This massive sandbox was hand-crafted by:
+
+*   **💡🛸 CIA CreativeLab, CreativeLabTH Group**
+*   **🇺🇲🇹🇭 Resilience Collective Thailand** (In collaboration with **MIT Urban Risk Lab, Massachusetts Institute of Technology**)
+*   **♻️🌱 NEXTOPIA, Siam Paragon**
+*   **💱🤖 KBTG, K Bank**
+*   **Media Partner:** **Spaceth.co**
+*   **Sponsored by:** **FURE WOOD ไม้อัดลำลูกกา** — *ตัวแทนจำหน่ายไม้สำหรับงานตกแต่งและงานเฟอร์นิเจอร์แบบครบวงจร ย่านลำลูกกา ปทุมธานี มีบริการตัดไม้ตามขนาด*
+*   **qBraid** — *The World's Most Connected Quantum Computing Platform*
+*   **Pubpub production** — *ทีมงาน production ที่สั่งปุ๊บ ๆ ได้ปั๊บ ๆ แฮ่*
+
+---
+
+## 🔒 Attribution & Legal Stuff
+We respect the grind:
+1.  **Ownership:** Participants own 100% of their repositories. This is just a index.
+2.  **License:** Check individual repos for licenses. If they didn't specify one, ask nicely before copying.
+3.  **BMA Integration:** All active codebases are open for BMA inspection under Open Data guidelines.

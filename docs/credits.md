@@ -27,16 +27,18 @@ Original ownership of all projects belongs fully to their respective participant
 | **FangMueang (ผังเมือง)** | `Ikkiw06` | [GitHub](https://github.com/Ikkiw06/fangmueang) | `ACTIVE` |
 | **Thairutan (ไทยรู้ทัน)** | `bexm169-ops` | [GitHub](https://github.com/bexm169-ops/Thairutan_) | `ACTIVE` |
 | **UrbanFlow** | `Jaturapat-Buak` | [GitHub](https://github.com/Jaturapat-Buak/UrbanFlow) | `ACTIVE` |
-| **Hackatechwork** | `46045-lab` | [GitHub Pages](https://46045-lab.github.io/Hackatechwork/) | `INACTIVE_404` |
-| **chicken.4r1n-hackatech-2026** | `Lewyns` | [GitHub](https://github.com/Lewyns/chicken.4r1n-hackatech-2026) | `INACTIVE_404` |
-| **Bubble Ideas Hub** | `Kulachat2` | [GitHub](https://github.com/Kulachat2/bubble-ideas-hub) | `INACTIVE_404` |
 
 ---
 
-## 🤝 Organizing & Strategic Partners
+## 🤝 Organizing & Strategic Partners (Co-Creators)
 
-*   **CIA CreativeLab:** Event conceptualization, visual design, and logistics.
-*   **Resilience Collective Thailand:** Coordination of youth-led municipal adaptation initiatives.
-*   **MIT Urban Risk Lab:** Mentorship, urban science framework alignment, and crowdsourcing mapping guidance.
-*   **NEXTOPIA & Siam Paragon:** Venue provider (Community Center, Floor 5A, Siam Paragon).
-*   **QBraid:** Cloud-based development infrastructure.
+The success of HacKaTech BKK 69 was made possible through the collaboration of these dedicated co-creators:
+
+*   **💡🛸 CIA CreativeLab, CreativeLabTH Group** - Event conceptualization, branding, visual identity, and hackathon organization.
+*   **🇺🇲🇹🇭 Resilience Collective Thailand** (In collaboration with **MIT Urban Risk Lab, Massachusetts Institute of Technology**) - Providing urban science frameworks, crowdsourced resilience design methodology, and academic mentorship.
+*   **♻️🌱 NEXTOPIA, Siam Paragon** - Strategic host, providing the venue and community collaborative spaces (Floor 5A, Siam Paragon) to spark youth innovation.
+*   **💱🤖 KBTG, K Bank** - Technology ecosystem support, accelerating developers with insights on building robust digital products.
+*   **Media Partner:** **Spaceth.co** - Delivering coverage and highlighting tech-centric urban dialogues for a science-minded audience.
+*   **Sponsored by:** **FURE WOOD ไม้อัดลำลูกกา** - ย่านลำลูกกา จังหวัดปทุมธานี เป็นตัวแทนจำหน่ายไม้สำหรับงานตกแต่งและงานเฟอร์นิเจอร์แบบครบวงจร มีบริการตัดไม้ตามขนาด.
+*   **qBraid** - The World's Most Connected Quantum Computing Platform.
+*   **Pubpub production** - ทีมงาน production ที่สั่งปุ๊บ ๆ ได้ปั๊บ ๆ แฮ่.

@@ -11,13 +11,12 @@ Raw project submissions often contained formatting inconsistencies, trailing spa
 *   Stripped `.git` extensions from repository URLs to point directly to user-facing GitHub web pages.
 *   Parsed owners and repository names to establish clean metadata fields.
 
-## 2. Deduplication
-Duplicate submissions (often identical repositories submitted by different team members or repeated entries) were identified and consolidated. The final index contains **22 unique project submissions**.
+## 2. Deduplication & Cleanup
+*   Duplicate submissions were identified and consolidated.
+*   All inactive, private, or 404 links were purged from the active catalog to maintain a high-quality list of working repositories. The final archive catalogs **19 active project submissions**.
 
 ## 3. Link Verification
-Every normalized URL was checked programmatically to verify its availability status:
-*   **Active:** The repository/deployment is live and public.
-*   **Inactive (404):** The link is currently returning a 404 error (possibly deleted, made private, or contains typos in the original submission). These links are preserved transparently in the index to maintain a complete history of the event's submissions.
+Every normalized URL was checked programmatically to verify its availability status. Only verified, active links are included in the primary index.
 
 ## 4. Metadata Extraction
 For active repositories, public README documentation was programmatically analyzed to extract:

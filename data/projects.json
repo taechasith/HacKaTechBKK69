@@ -283,50 +283,5 @@
     "tech_stack": "HTML, CSS, JavaScript (Node.js backend)",
     "license": "Unspecified",
     "notes": "Features local server setup script."
-  },
-  {
-    "id": "hackatechwork",
-    "name": "Hackatechwork",
-    "url": "https://46045-lab.github.io/Hackatechwork/",
-    "type": "github_pages",
-    "owner": "46045-lab",
-    "status": "inactive_404",
-    "civic_area": "unknown",
-    "summary": "No public details available (submission page returned 404).",
-    "summary_th": "ไม่มีข้อมูลโครงการเนื่องจากลิงก์ทางเลือกไม่สามารถเข้าถึงได้ (แสดงสถานะ 404)",
-    "credits": "46045-lab",
-    "tech_stack": "Unspecified",
-    "license": "Unspecified",
-    "notes": "Flagged as inactive. The original submission link is kept for record preservation."
-  },
-  {
-    "id": "chicken-4r1n-hackatech-2026",
-    "name": "chicken.4r1n-hackatech-2026",
-    "url": "https://github.com/Lewyns/chicken.4r1n-hackatech-2026",
-    "type": "github_repo",
-    "owner": "Lewyns",
-    "status": "inactive_404",
-    "civic_area": "unknown",
-    "summary": "No public details available (repository returned 404).",
-    "summary_th": "ไม่มีข้อมูลโครงการเนื่องจากคลังเก็บรหัสต้นฉบับไม่สามารถเข้าถึงได้ (แสดงสถานะ 404)",
-    "credits": "Lewyns",
-    "tech_stack": "Unspecified",
-    "license": "Unspecified",
-    "notes": "Flagged as inactive/missing. The original submission link is kept for record preservation."
-  },
-  {
-    "id": "bubble-ideas-hub",
-    "name": "Bubble Ideas Hub",
-    "url": "https://github.com/Kulachat2/bubble-ideas-hub",
-    "type": "github_repo",
-    "owner": "Kulachat2",
-    "status": "inactive_404",
-    "civic_area": "unknown",
-    "summary": "No public details available (repository returned 404).",
-    "summary_th": "ไม่มีข้อมูลโครงการเนื่องจากคลังเก็บรหัสต้นฉบับไม่สามารถเข้าถึงได้ (แสดงสถานะ 404)",
-    "credits": "Kulachat2",
-    "tech_stack": "Unspecified",
-    "license": "Unspecified",
-    "notes": "Flagged as inactive/missing. The original submission link is kept for record preservation."
   }
 ]
