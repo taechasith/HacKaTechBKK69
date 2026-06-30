@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HacKaTech BKK 69 | Public Project Archive</title>
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Outfit:wght@400;500;600;700;800&family=Sarabun:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <!-- FontAwesome for Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <!-- Custom Style -->
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- Background Glow Elements -->
+    <div class="glow-sphere sphere-1"></div>
+    <div class="glow-sphere sphere-2"></div>
+    <div class="glow-sphere sphere-3"></div>
+
+    <!-- Header / Navbar -->
+    <header class="navbar">
+        <div class="nav-container">
+            <div class="logo">
+                <span class="logo-accent">&lt;</span>HacKaTech <span class="logo-highlight">BKK 69</span><span class="logo-accent">/&gt;</span>
+            </div>
+            <nav class="nav-menu">
+                <a href="docs/event-archive.md" class="nav-link">Event Narrative</a>
+                <a href="docs/credits.md" class="nav-link">Credits</a>
+                <a href="docs/methodology.md" class="nav-link">Methodology</a>
+            </nav>
+            <div class="nav-meta">
+                <span class="meta-tag"><i class="fa-solid fa-box-archive"></i> Public Archive</span>
+            </div>
+        </div>
+    </header>
+
+    <main class="archive-main">
+        <!-- Hero Section -->
+        <section class="archive-hero">
+            <span class="hero-badge"><i class="fa-solid fa-users"></i> Youth-Led Civic Technology</span>
+            <h1 class="archive-title">HacKaTech BKK 69 Project Archive</h1>
+            <p class="archive-subtitle">
+                Preserving 22 open-source civic tech prototypes created by Thai teen builders (ages 15–24) during the hackathon held June 18–20, 2026, leading up to the Bangkok Governor Election.
+            </p>
+        </section>
+
+        <!-- Search and Filter Controls -->
+        <section class="controls-section">
+            <div class="search-box">
+                <i class="fa-solid fa-magnifying-glass search-icon"></i>
+                <input type="text" id="search-input" placeholder="Search by project name, creator, or tech stack...">
+            </div>
+            
+            <div class="filter-wrapper">
+                <span class="filter-label"><i class="fa-solid fa-sliders"></i> Filter by Area:</span>
+                <div class="filter-buttons" id="filter-buttons">
+                    <button class="filter-btn active" data-filter="all">All Projects</button>
+                    <button class="filter-btn" data-filter="mobility">Mobility</button>
+                    <button class="filter-btn" data-filter="flooding">Flooding</button>
+                    <button class="filter-btn" data-filter="environment">Environment</button>
+                    <button class="filter-btn" data-filter="welfare">Welfare</button>
+                    <button class="filter-btn" data-filter="public infrastructure">Infrastructure</button>
+                    <button class="filter-btn" data-filter="public health">Health</button>
+                    <button class="filter-btn" data-filter="public services">Public Services</button>
+                </div>
+            </div>
+
+            <div class="status-toggle-wrapper">
+                <label class="toggle-container">
+                    <input type="checkbox" id="active-only-checkbox">
+                    <span class="toggle-checkmark"></span>
+                    Show active repositories only
+                </label>
+                <span class="results-count" id="results-count">Showing 22 projects</span>
+            </div>
+        </section>
+
+        <!-- Project Grid -->
+        <section class="grid-section">
+            <div class="project-grid" id="project-grid">
+                <!-- Cards will be populated dynamically -->
+                <div class="loading-state">
+                    <i class="fa-solid fa-circle-notch fa-spin"></i> Loading archive database...
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <!-- Footer -->
+    <footer>
+        <div class="footer-container">
+            <div class="footer-info">
+                <h4>HacKaTech BKK 69 Archive</h4>
+                <p>Preserving and celebrating the future of Thai civic technology.</p>
+            </div>
+            <div class="footer-credits">
+                <p>Organizing Partners:</p>
+                <div class="partner-logos">
+                    <span>CIA CreativeLab</span>
+                    <span>Resilience Collective Thailand</span>
+                    <span>MIT Urban Risk Lab</span>
+                    <span>NEXTOPIA</span>
+                    <span>QBraid</span>
+                </div>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            &copy; 2026 HacKaTech BKK Archive. All original code ownership belongs to respective creators.
+        </div>
+    </footer>
+
+    <!-- Custom Script -->
+    <script src="app.js"></script>
+</body>
+</html>
