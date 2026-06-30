@@ -51,12 +51,17 @@ Rather than starting from scratch, teams had to prepare a project blueprint in a
 ## ⚔️ The Two Rounds: Onsite & Online
 
 ### 🏢 Onsite Track: Hackathon + Live Debate (June 18-20, 2026)
-*   **Venue:** NEXTOPIA Community Center, Siam Paragon.
-*   **The Debate Day (June 20, 2026):**
-    *   The top 3 selected teams pitched their prototypes on-stage.
-    *   Teams asked questions directly to Bangkok Gubernatorial Candidates.
-    *   Candidates debated how the youth-built tech could scale under their administration.
-    *   *Awards:* National Trophies for the top 3 teams. E-Certificates for all onsite participants.
+*   **Venue:** NEXTOPIA Community Center, Floor 5A, Siam Paragon.
+*   **The Debate Day (June 20, 2026 - 14:00 - 16:00):**
+    *   **Showdown Title:** ศึกดีเบตโค้งสุดท้ายก่อน #เลือกตั้งผู้ว่ากทม69 🔥 (The Final Debate Showdown).
+    *   **The Clash of Two Families (2 ตระกูลมาเฟีย):** พรรคเศรษฐกิจ (Economic Party) vs กลุ่มกรุงเทพบินได้ (Flying Bangkok Group).
+    *   **Matchup 1 (กลุ่มกรุงเทพบินได้):** 🟣🦖 **Tae Mongkolkit** (เต้ มงคลกิตติ์ - Leader of Flying Bangkok Group) went head-to-head with two scientific/ecological experts: "Dinosaur" Dr. Surawet Suteethorn and "De-extinction" Asst. Prof. Dr. Puey Ounjai.
+    *   **Matchup 2 (พรรคเศรษฐกิจ):** 🟡🤖 **Fote Chulabut** (โฟ๊ต จุฬาบุตร - candidate for Deputy Governor, Economic Party) faced off against two sharp media/reporter personalities: Nailname (online drama reporter) and Namtoey (THE STANDARD reporter).
+    *   **Special Guests:** Secret Guests tested the candidates' wit on stage.
+    *   **Referee/Host:** Tae CreativeLab (เต้ CreativeLab ลั่นระฆัง).
+    *   **The Technology Core:** The software prototypes developed by the top 3 teams in the Hackathon (June 18-19) served as the direct policy tools for this debate! Candidates had to debate how they would implement and scale these exact youth-built projects in their views.
+    *   **Live Streams & Recording:** Broadcasted live on FB/YT: CreativeLab TH and FB: Spaceth.co.
+    *   **Watch the Live Stream Recording:** 🎥 [HacKaTech BKK 69 Debate Live Stream](https://www.youtube.com/live/vClGZcDhQl4?si=wq-6lOUIwcGgToSq)
 
 ### 🌐 Special Online Track: 1-Day Pitch + Demo (June 27, 2026)
 *   **Platform:** Zoom.

@@ -28,6 +28,13 @@ This repository archives the actual software, hardware, and deployment repositor
 
 ---
 
+## 📺 The Live Debate Showdown (ศึกดีเบตพลิกกรุง)
+Watch the final onstage policy debate held **June 20, 2026** at NEXTOPIA, Siam Paragon, where the top 3 youth projects were pitched live to Gubernatorial Candidates from **พรรคเศรษฐกิจ (Economic Party)** and **กลุ่มกรุงเทพบินได้ (Flying Bangkok Group)**!
+
+*   🎥 **Watch Recording on YouTube:** [HacKaTech BKK 69 Onstage Debate Live Stream](https://www.youtube.com/live/vClGZcDhQl4?si=wq-6lOUIwcGgToSq)
+
+---
+
 ## 📊 Registration & Participation Statistics (สถิติการรับสมัคร)
 
 We had high engagement from the community! Check out the numbers:
