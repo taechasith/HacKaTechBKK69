@@ -20,7 +20,15 @@ The event saw high engagement from the Thai youth civic tech community:
 
 ---
 
-## 📄 Required Documents & Submissions (เอกสารที่ต้องส่ง)
+## 📂 Registration Submission Template (เอกสารที่ต้องส่งเมื่อสมัคร)
+
+To apply for HacKaTech BKK 69, every individual or team had to complete and submit the official **Project Document** containing their design layout. Applicants were required to download a copy of this template, fill in their project specs, and upload the final document (or a Google Docs link) in their registration form:
+
+*   **Official Project Document Template:** 📑 [Template - HacKaTech_ ศึกชิงเก้าอี้ผู้ว่ากทม69 (2).docx](./Template%20-%20HacKaTech_%20%E0%B8%A8%E0%B8%B6%E0%B8%81%E0%B8%8A%E0%B8%B4%E0%B8%87%E0%B9%80%E0%B8%81%E0%B9%82%E0%B8%B2%E0%B8%AD%E0%B8%B5%E0%B9%89%E0%B8%95%E0%B8%B9%E0%B9%89%E0%B8%A7%E0%B9%88%E0%B8%B2%E0%B8%81%E0%B8%97%E0%B8%A169%20(2).docx)
+
+---
+
+## 📄 Required Verification Documents (เอกสารยืนยันสิทธิ์หลังผ่านเข้ารอบ)
 
 All confirmed participants were required to submit physical or digital verification documents. 
 
@@ -37,8 +45,7 @@ Participants attending the physical event at NEXTOPIA (Siam Paragon) had to brin
     *   Original signature of the participant.
 2.  **Parental Consent Form (ใบยินยอมจากผู้ปกครอง):**
     *   *Mandatory for minor participants under 20 years old.*
-    *   Participants had to make a copy and print the form template themselves (**ทำสำเนา ไปพิมพ์เอง**), obtain their parent's or legal guardian's signature, and present it at the registration desk on Day 1.
-    *   The official document template is archived in this repository: [Template - HacKaTech_ ศึกชิงเก้าอี้ผู้ว่ากทม69 (2).docx](./Template%20-%20HacKaTech_%20%E0%B8%A8%E0%B8%B6%E0%B8%81%E0%B8%8A%E0%B8%B4%E0%B8%87%E0%B9%80%E0%B8%81%E0%B9%82%E0%B8%B2%E0%B8%AD%E0%B8%B5%E0%B9%89%E0%B8%95%E0%B8%B9%E0%B9%89%E0%B8%A7%E0%B9%88%E0%B8%B2%E0%B8%81%E0%B8%97%E0%B8%A169%20(2).docx)
+    *   Participants had to print a template of the consent form, obtain their parent's or legal guardian's signature, and present it at the registration desk on Day 1.
 3.  **Certified Copy of Student ID Card (สำเนาบัตรประจำตัวนักเรียน/นักศึกษา):**
     *   *Required for tracking student perks and sponsorships.*
     *   Photocopied and certified true copy.
