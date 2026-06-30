@@ -48,6 +48,19 @@ Rather than starting from scratch, teams had to prepare a project blueprint in a
 
 ---
 
+## ⚠️ A Note on Unpublished Prototypes & Time Constraints (ข้อมูลโครงการที่ไม่ได้อัปโหลดขึ้น GitHub)
+
+We would like to note that **there were more projects developed during the hackathon than are currently listed in this archive**. 
+
+Due to the intense **48-hour time constraint** of the hackathon and **insufficiently structured technical guidance/mentoring** on Git and repository management, several competitor teams did not have enough time to organize, clean, and publish their codebases to public GitHub repositories before the deadline. Many teams succeeded in running their working prototypes locally on their laptops or "vibed code" directly on already-made development platforms (without staging separate standalone public repositories).
+
+We recognize this as a critical area of growth. For future HacKaTech events, we will improve developer onboarding by providing:
+*   Structured git/GitHub publishing workshops prior to hacking.
+*   Dedicated technical mentors focused purely on code archival and deployment.
+*   Better templates to ensure every youth builder can easily share their code with the world.
+
+---
+
 ## ⚔️ The Two Rounds: Onsite & Online
 
 ### 🏢 Onsite Track: Hackathon + Live Debate (June 18-20, 2026)
