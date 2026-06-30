@@ -26,6 +26,7 @@ This repository archives the software, hardware, and deployment repositories bui
 *   📂 [`docs/registration.md`](./docs/registration.md) - Participant metrics, registration guidelines, and templates.
 *   📂 [`docs/credits.md`](./docs/credits.md) - Full credits cataloging creators, nickname records, and teams.
 *   📂 [`docs/methodology.md`](./docs/methodology.md) - How we compiled, normalized, and verified these records.
+*   📂 [`docs/project-intersections.md`](./docs/project-intersections.md) - Analysis of how submitted projects connect to civic-tech themes, youth perspectives, and event learning.
 *   📂 [`docs/license-and-attribution.md`](./docs/license-and-attribution.md) - IP protection and CC BY 4.0 terms.
 
 ---

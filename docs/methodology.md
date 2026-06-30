@@ -28,3 +28,20 @@ Credits were compiled by cross-referencing registration records, submission repo
 ## 5. Preservation of Original Ownership
 *   **No ownership transfer is implied or claimed:** All codebases, designs, and copy remain the exclusive property of the original hackathon participants.
 *   **No License Assumption:** Where no license file was present in the participant's repository, the license has been marked as `Not specified`.
+
+## Participant perspective and privacy method
+
+This archive uses participant perspective only in aggregated and privacy-preserving form. The organizer originally collected confirmation forms, review forms, project links, team names, and post-event reflections through private spreadsheets. Those files may contain personal information such as names, emails, phone numbers, payment proof, health notes, emergency contacts, and private comments. These raw files are not published in this repository.
+
+For public documentation, the archive only uses:
+*   public project links,
+*   public or organizer-approved team/project credits,
+*   aggregated feedback themes,
+*   non-identifying learning themes,
+*   and project-level interpretation based on public repositories, submitted project links, and sanitized organizer analysis.
+
+The project-intersection analysis is therefore an interpretive archive layer, not a release of raw survey data. It is meant to help future organizers, educators, civic-tech communities, sponsors, researchers, and youth builders understand what kinds of public problems emerged from the hackathon and how participants learned through the process.
+
+## Data limitations
+
+The repository does not include the original private spreadsheets. Some civic-area tags are inferred from project names, public links, and sanitized feedback themes. These tags should be treated as provisional until each team confirms its own public project summary. Where credit matching was partial or inferred, the archive marks uncertainty instead of silently resolving it.
