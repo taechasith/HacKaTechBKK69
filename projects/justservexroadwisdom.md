@@ -23,7 +23,7 @@ Web App (React/HTML/JS)
 ---
 
 ## 📌 Archive Note
-*This page is part of the official public archive for HacKaTech BKK 69. Only exact matched participant/team is AyaYA. Because the repo name contains JustServe, manually verify whether JustServe (จัดเสิร์ฟ) should also be credited.. Aimed at extending capabilities of centralized municipal report portals.*
+*This page is part of the official public archive for HacKaTechBKK69. Only exact matched participant/team is AyaYA. Because the repo name contains JustServe, manually verify whether JustServe (จัดเสิร์ฟ) should also be credited.. Aimed at extending capabilities of centralized municipal report portals.*
 
 ## 🔒 Attribution Statement
 All projects remain the intellectual work of their original student creators and teams. This archive is a public documentation layer for discovery, education, and civic-tech continuity. No ownership transfer is implied.

@@ -1,8 +1,8 @@
-# HacKaTech 2026: Thai Teen Civic Tech Archive 🛸
+# HacKaTechBKK69: Thai Teen Civic Tech Archive 🛸
 ### *An open archive of youth-led civic technology projects for Bangkok and Thailand’s public future.*
 
 <p align="center">
-  <img src="assets/header.gif" alt="HacKaTech BKK 69 Banner" width="100%" style="border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.4);" />
+  <img src="assets/header.gif" alt="HacKaTechBKK69 Banner" width="100%" style="border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.4);" />
 </p>
 
 > **"Code the city before the city codes you."**  
@@ -11,7 +11,7 @@
 ---
 
 ## ⚡ Hey, Yo! What is this?
-Welcome to the handcrafted, official time-capsule repository of **HacKaTech BKK 69** (BE 2569 / 2026 CE)! 
+Welcome to the handcrafted, official time-capsule repository of **HacKaTechBKK69** (BE 2569 / 2026 CE)! 
 
 From **June 18-20, 2026**, Bangkok's most active teen builders (ages 15–24) locked themselves in the NEXTOPIA Community Center (Siam Paragon). The mission? Build open-source, politically neutral city tech. The twist? A week later was the **June 28, 2026 Bangkok Governor Election**, and our top teams pitched their working code live on-stage directly to the Gubernatorial Candidates!
 
@@ -33,7 +33,7 @@ This repository archives the software, hardware, and deployment repositories bui
 
 ```mermaid
 flowchart TD
-    A["HacKaTech 2026 project archive"] --> B["Public project links and sanitized credits"]
+    A["HacKaTechBKK69 project archive"] --> B["Public project links and sanitized credits"]
     A --> C["Organizer-held participant review and confirmation data"]
     B --> D["Project-by-project intersection analysis"]
     C --> D
@@ -73,7 +73,7 @@ flowchart TD
 ## 📺 The Live Debate Showdown (ศึกดีเบตพลิกกรุง)
 Watch the final onstage policy debate held **June 20, 2026** at NEXTOPIA, Siam Paragon, where the top 3 youth projects were pitched live to Gubernatorial Candidates from **พรรคเศรษฐกิจ (Economic Party)** and **กลุ่มกรุงเทพบินได้ (Flying Bangkok Group)**!
 
-*   🎥 **Watch Recording on YouTube:** [HacKaTech BKK 69 Onstage Debate Live Stream](https://www.youtube.com/live/vClGZcDhQl4?si=wq-6lOUIwcGgToSq)
+*   🎥 **Watch Recording on YouTube:** [HacKaTechBKK69 Onstage Debate Live Stream](https://www.youtube.com/live/vClGZcDhQl4?si=wq-6lOUIwcGgToSq)
 
 ---
 
@@ -132,7 +132,7 @@ This event marks the kickoff of the **HacKaTech** series! We will continue build
 
 A massive thank you to all teen builders who joined and co-created this historic milestone. For the first time in Thailand, the voices of hundreds of youth tech builders reached the ears of those in political power. Keep fighting for your beliefs in Civic Tech!
 
-*   📸 **Explore the Gallery:** [HacKaTech BKK 69 Photo Gallery / ภาพบรรยากาศทั้งหมด](https://drive.google.com/drive/folders/197ceTguPbsm9_-i00oghz_Ydl-ugVHde?usp=drive_link)
+*   📸 **Explore the Gallery:** [HacKaTechBKK69 Photo Gallery / ภาพบรรยากาศทั้งหมด](https://drive.google.com/drive/folders/197ceTguPbsm9_-i00oghz_Ydl-ugVHde?usp=drive_link)
 
 ---
 

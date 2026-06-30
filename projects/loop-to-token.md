@@ -23,7 +23,7 @@ Unspecified
 ---
 
 ## 📌 Archive Note
-*This page is part of the official public archive for HacKaTech BKK 69. 1 submitter email(s) did not have an exact confirmation-form match; team credits are based on matched submitters from the same repo.. Aimed at gamifying community recycling rewards.*
+*This page is part of the official public archive for HacKaTechBKK69. 1 submitter email(s) did not have an exact confirmation-form match; team credits are based on matched submitters from the same repo.. Aimed at gamifying community recycling rewards.*
 
 ## 🔒 Attribution Statement
 All projects remain the intellectual work of their original student creators and teams. This archive is a public documentation layer for discovery, education, and civic-tech continuity. No ownership transfer is implied.

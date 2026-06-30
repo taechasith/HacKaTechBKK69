@@ -23,7 +23,7 @@ Next.js, TypeScript, Tailwind CSS
 ---
 
 ## 📌 Archive Note
-*This page is part of the official public archive for HacKaTech BKK 69. No exact email match in confirmation form; likely NoPlan from related Meetfans project, repo owner Siwakorn, and submitted name/email clue.. Shares template architecture with the Meetfans project.*
+*This page is part of the official public archive for HacKaTechBKK69. No exact email match in confirmation form; likely NoPlan from related Meetfans project, repo owner Siwakorn, and submitted name/email clue.. Shares template architecture with the Meetfans project.*
 
 ## 🔒 Attribution Statement
 All projects remain the intellectual work of their original student creators and teams. This archive is a public documentation layer for discovery, education, and civic-tech continuity. No ownership transfer is implied.

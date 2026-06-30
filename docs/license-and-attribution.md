@@ -1,6 +1,6 @@
 # License & Attribution 🔒
 
-This repository archives, documents, and links to projects developed by participants of HacKaTech BKK 69.
+This repository archives, documents, and links to projects developed by participants of HacKaTechBKK69.
 
 ---
 

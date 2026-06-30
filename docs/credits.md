@@ -1,4 +1,4 @@
-# HacKaTech BKK 69 Archive Credits 🌟
+# HacKaTechBKK69 Archive Credits 🌟
 
 Original ownership of all projects belongs fully to their respective participants. No ownership transfer is implied or claimed by this archive. This document catalogs all participant credits matched using submitted project links and confirmation-form team data.
 

@@ -23,7 +23,7 @@ HTML, CSS, JavaScript
 ---
 
 ## 📌 Archive Note
-*This page is part of the official public archive for HacKaTech BKK 69. Form submission email appears mistyped; repo owner/name matches Kulachat Tosayanond from team CONNEXT BKK.. Marked inactive. Deployed URL returned 404 during check.*
+*This page is part of the official public archive for HacKaTechBKK69. Form submission email appears mistyped; repo owner/name matches Kulachat Tosayanond from team CONNEXT BKK.. Marked inactive. Deployed URL returned 404 during check.*
 
 ## 🔒 Attribution Statement
 All projects remain the intellectual work of their original student creators and teams. This archive is a public documentation layer for discovery, education, and civic-tech continuity. No ownership transfer is implied.

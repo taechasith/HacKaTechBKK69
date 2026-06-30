@@ -23,7 +23,7 @@ Python, RAG, Typhoon LLM
 ---
 
 ## 📌 Archive Note
-*This page is part of the official public archive for HacKaTech BKK 69. Multiple teams submitted the same repo link; verify if this was a collaboration or a duplicated link.. Utilizes localized vector embeddings for municipal welfare audits.*
+*This page is part of the official public archive for HacKaTechBKK69. Multiple teams submitted the same repo link; verify if this was a collaboration or a duplicated link.. Utilizes localized vector embeddings for municipal welfare audits.*
 
 ## 🔒 Attribution Statement
 All projects remain the intellectual work of their original student creators and teams. This archive is a public documentation layer for discovery, education, and civic-tech continuity. No ownership transfer is implied.

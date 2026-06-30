@@ -1,10 +1,10 @@
-# HacKaTech BKK 69: Co-Creating Bangkok's Future 🇹🇭
+# HacKaTechBKK69: Co-Creating Bangkok's Future 🇹🇭
 
-**HacKaTech BKK 69** (HacKaTech Bangkok 2569 BE / 2026 CE) is a youth-led civic tech hackathon and policy debate organized in Bangkok, Thailand. The event brought together developers, designers, and community organizers aged 15-24 to design open-source, politically neutral technology prototypes addressing the capital city's most critical urban challenges.
+**HacKaTechBKK69** (HacKaTech Bangkok 2569 BE / 2026 CE) is a youth-led civic tech hackathon and policy debate organized in Bangkok, Thailand. The event brought together developers, designers, and community organizers aged 15-24 to design open-source, politically neutral technology prototypes addressing the capital city's most critical urban challenges.
 
 ---
 
-## 🎯 The Four Core Goals of HacKaTech BKK 69
+## 🎯 The Four Core Goals of HacKaTechBKK69
 
 1.  **Youth-Driven Co-Creation (พลังเยาวชนร่วมสร้างสรรค์):**
     Empowering 15-24 year olds—many not yet eligible to vote—to act as primary designers of Bangkok's future. It shifts youth from passive critics of municipal services to active builders of community systems.
@@ -74,7 +74,7 @@ We recognize this as a critical area of growth. For future HacKaTech events, we 
     *   **Referee/Host:** Tae CreativeLab (เต้ CreativeLab ลั่นระฆัง).
     *   **The Technology Core:** The software prototypes developed by the top 3 teams in the Hackathon (June 18-19) served as the direct policy tools for this debate! Candidates had to debate how they would implement and scale these exact youth-built projects in their views.
     *   **Live Streams & Recording:** Broadcasted live on FB/YT: CreativeLab TH and FB: Spaceth.co.
-    *   **Watch the Live Stream Recording:** 🎥 [HacKaTech BKK 69 Debate Live Stream](https://www.youtube.com/live/vClGZcDhQl4?si=wq-6lOUIwcGgToSq)
+    *   **Watch the Live Stream Recording:** 🎥 [HacKaTechBKK69 Debate Live Stream](https://www.youtube.com/live/vClGZcDhQl4?si=wq-6lOUIwcGgToSq)
 
 ### 🌐 Special Online Track: 1-Day Pitch + Demo (June 27, 2026)
 *   **Platform:** Zoom.
@@ -104,5 +104,5 @@ We recognize this as a critical area of growth. For future HacKaTech events, we 
 ---
 
 ### 📸 Photo Gallery & Atmosphere (ภาพบรรยากาศทั้งหมด)
-Relive the moments and explore the full photo archive of HacKaTech BKK 69:
-*   📂 **Google Drive Folder:** [HacKaTech BKK 69 Photo Gallery / ภาพบรรยากาศทั้งหมด](https://drive.google.com/drive/folders/197ceTguPbsm9_-i00oghz_Ydl-ugVHde?usp=drive_link)
+Relive the moments and explore the full photo archive of HacKaTechBKK69:
+*   📂 **Google Drive Folder:** [HacKaTechBKK69 Photo Gallery / ภาพบรรยากาศทั้งหมด](https://drive.google.com/drive/folders/197ceTguPbsm9_-i00oghz_Ydl-ugVHde?usp=drive_link)

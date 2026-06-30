@@ -1,6 +1,6 @@
-# HacKaTech BKK 69 Registration & Participation Archive 📝
+# HacKaTechBKK69 Registration & Participation Archive 📝
 
-This page documents the registration statistics, participant funnel, and document requirements for both the Onsite and Online tracks of HacKaTech BKK 69.
+This page documents the registration statistics, participant funnel, and document requirements for both the Onsite and Online tracks of HacKaTechBKK69.
 
 ---
 
@@ -22,7 +22,7 @@ The event saw high engagement from the Thai youth civic tech community:
 
 ## 📂 Registration Submission Template (เอกสารที่ต้องส่งเมื่อสมัคร)
 
-To apply for HacKaTech BKK 69, every individual or team had to complete and submit the official **Project Document** containing their design layout. Applicants were required to download a copy of this template, fill in their project specs, and upload the final document (or a Google Docs link) in their registration form:
+To apply for HacKaTechBKK69, every individual or team had to complete and submit the official **Project Document** containing their design layout. Applicants were required to download a copy of this template, fill in their project specs, and upload the final document (or a Google Docs link) in their registration form:
 
 *   **Official Project Document Template:** 📑 [Template - HacKaTech_ ศึกชิงเก้าอี้ผู้ว่ากทม69 (2).docx](./Template%20-%20HacKaTech_%20%E0%B8%A8%E0%B8%B6%E0%B8%81%E0%B8%8A%E0%B8%B4%E0%B8%87%E0%B9%80%E0%B8%81%E0%B9%82%E0%B8%B2%E0%B8%AD%E0%B8%B5%E0%B9%89%E0%B8%95%E0%B8%B9%E0%B9%89%E0%B8%A7%E0%B9%88%E0%B8%B2%E0%B8%81%E0%B8%97%E0%B8%A169%20(2).docx)
 
@@ -41,7 +41,7 @@ Participants attending the physical event at NEXTOPIA (Siam Paragon) had to brin
 
 1.  **Certified Copy of National ID Card (สำเนาบัตรประจำตัวประชาชน):**
     *   One photocopy of the front side.
-    *   Handwritten text: *"สำเนาถูกต้อง ใช้สำหรับเข้าร่วมกิจกรรม HacKaTech BKK 69 เท่านั้น"* (Certified true copy, to be used solely for HacKaTech BKK 69).
+    *   Handwritten text: *"สำเนาถูกต้อง ใช้สำหรับเข้าร่วมกิจกรรม HacKaTechBKK69 เท่านั้น"* (Certified true copy, to be used solely for HacKaTechBKK69).
     *   Original signature of the participant.
 2.  **Parental Consent Form (ใบยินยอมจากผู้ปกครอง):**
     *   *Mandatory for minor participants under 20 years old.*
@@ -54,7 +54,7 @@ Participants attending the physical event at NEXTOPIA (Siam Paragon) had to brin
 Participants joining the online virtual hackathon track had to upload digital scans of their documents to the participant portal:
 
 1.  **Digital Scan of National ID Card (ภาพถ่าย/สแกนบัตรประชาชน):**
-    *   Digitally signed or watermarked with: *"ใช้สำหรับเข้าร่วมกิจกรรม HacKaTech BKK 69 เท่านั้น"*
+    *   Digitally signed or watermarked with: *"ใช้สำหรับเข้าร่วมกิจกรรม HacKaTechBKK69 เท่านั้น"*
 2.  **Digital Parental Consent Form (ไฟล์ใบยินยอมจากผู้ปกครอง):**
     *   Printed, physically signed, scanned, and uploaded to the Discord/Google Form registration portal before the onboarding session.
 

@@ -1,4 +1,4 @@
-# HacKaTech BKK 69 Archive Methodology 🧪
+# HacKaTechBKK69 Archive Methodology 🧪
 
 This page explains the technical methodology used to collect, normalize, verify, and document the open-source projects archived in this repository.
 

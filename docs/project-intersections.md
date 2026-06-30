@@ -2,7 +2,7 @@
 
 ## Why this page exists
 
-This page reads the HacKaTech 2026 archive as a civic-tech map. It connects early prototypes to public issues, youth learning, technical choices, and event design lessons. It is meant to help future organizers, educators, sponsors, civic-tech researchers, and youth builders understand what the project collection reveals about how young builders approached Bangkok and Thailand's public problems in 2026.
+This page reads the HacKaTechBKK69 archive as a civic-tech map. It connects early prototypes to public issues, youth learning, technical choices, and event design lessons. It is meant to help future organizers, educators, sponsors, civic-tech researchers, and youth builders understand what the project collection reveals about how young builders approached Bangkok and Thailand's public problems in 2026.
 
 ## How to read this analysis
 
