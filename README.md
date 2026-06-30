@@ -22,8 +22,25 @@ This repository archives the actual software, hardware, and deployment repositor
 *   📂 [`data/projects.json`](./data/projects.json) - Machine-readable JSON database. Perfect for hackers looking to scrape or build directories.
 *   📂 [`projects/`](./projects/) - Deep-dives into each project, bilingual summaries, and the tech specs of what makes them tick.
 *   📂 [`docs/event-archive.md`](./docs/event-archive.md) - The full narrative, key goals, and why teen-led civic tech is the absolute secret weapon for Thailand.
+*   📂 [`docs/registration.md`](./docs/registration.md) - Participant registration numbers, onsite/online requirements, and document checklist.
 *   📂 [`docs/credits.md`](./docs/credits.md) - Shout-outs to every single human and partner who made this happen.
 *   📂 [`docs/methodology.md`](./docs/methodology.md) - The nerd specs of how we collected, normalized, and verified these links.
+
+---
+
+## 📊 Registration & Participation Statistics (สถิติการรับสมัคร)
+
+We had high engagement from the community! Check out the numbers:
+*   👥 **Total Registrations:** **284 people** applied to join the hackathon.
+*   🏢 **Confirmed Onsite:** **110 people** confirmed and participated onsite at NEXTOPIA, Siam Paragon.
+*   🌐 **Confirmed Online:** **107 people** confirmed and participated in the virtual hackathon round.
+
+### 📄 Submission Requirements (ต้องส่ง: เอกสาร)
+To make things official and keep everyone safe, participants had to submit:
+*   **National ID Card Copy (สำเนาบัตรประชาชน)** signed with "Certified True Copy".
+*   **Parental Consent Form (ใบยินยอมจากผู้ปกครอง)** for minor participants under 20 years old. Note: **ทำสำเนา ไปพิมพ์เอง** (participants made a copy, printed the form, and brought it to Siam Paragon physically or uploaded it).
+
+Check out [registration.md](./docs/registration.md) for details on document formats and the onboarding schedule.
 
 ---
 
