@@ -1,10 +1,13 @@
 # CityFlowBKK
 
 *   **Original Link:** [https://github.com/tanth123-h/CityFlowBKK](https://github.com/tanth123-h/CityFlowBKK)
+*   **Link Type:** `GITHUB_REPO`
 *   **Repository / Deployment Status:** `ACTIVE`
 *   **Civic Problem Area:** `MOBILITY`
-*   **Original Creator / Ownership:** `tanth123-h`
-*   **License:** `Unspecified`
+*   **Original Team:** `พยัคฆ์เมฆา x รัตติกาล`
+*   **Creator Credits:** Ratchakrit Nittayacharoendet (แทนคุณ), Yingkun Sukjaras (กาน), Patcharapon Ladlao (ตะวัน), Tankhun Srijankaew (แทน), Rattapoom Mora (รัฐภูมิ โมรา), Nuttanaphon Sarnnok (โดนัท), Somprasong Thunnok (เกาหลี)
+*   **Credit Confidence Status:** `CONFIRMED`
+*   **License:** `Not specified`
 
 ---
 
@@ -20,4 +23,7 @@ Android (Java/Kotlin), XML
 ---
 
 ## 📌 Archive Note
-*This page is part of the official public archive for HacKaTech BKK 69. Original ownership is fully preserved by the authors. Features mobile maps and offline station listings.*
+*This page is part of the official public archive for HacKaTech BKK 69. Matched by submitted project link and confirmation-form team data.. Features mobile maps and offline station listings.*
+
+## 🔒 Attribution Statement
+All projects remain the intellectual work of their original student creators and teams. This archive is a public documentation layer for discovery, education, and civic-tech continuity. No ownership transfer is implied.

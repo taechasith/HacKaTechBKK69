@@ -90,7 +90,7 @@ Finalist selection was conducted by the **CIA CreativeLab** team based on applic
 1.  **Clarity of the Problem (ความชัดเจนของปัญหา):** Current or future city issues.
 2.  **Track Alignment (ความเหมาะสมกับ Track):** Fit for URBAN or PEOPLE tracks.
 3.  **Prototype Feasibility (ความเป็นไปได้):** Ability to build a Working Prototype within 1-2 days.
-4.  **Team Readiness (ความพร้อมของทีม):** Team composition and skills.
+4.  **Team Readiness (ความพร้อม of ทีม):** Team composition and skills.
 5.  **Public Benefit (การใช้ Open Data):** Creative integration of open city data.
 6.  **Scalability (ศักยภาพการต่อยอด):** Growth and scalability post-event.
 

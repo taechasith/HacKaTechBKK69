@@ -1,0 +1,1184 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "name": "Thairutan_",
+      "url": "https://github.com/bexm169-ops/Thairutan_",
+      "team_names": [
+        "SKC NewHorizon"
+      ],
+      "creators": [
+        {
+          "name": "Woraphitcha Chaiyawan",
+          "nickname": "เหมือง",
+          "team": "SKC NewHorizon"
+        },
+        {
+          "name": null,
+          "nickname": "เจ๋ง",
+          "team": "SKC NewHorizon"
+        },
+        {
+          "name": "Porramee Saraboon",
+          "nickname": "ปรมีร์ สารบุญ",
+          "team": "SKC NewHorizon"
+        },
+        {
+          "name": "Pornpimomlatnok",
+          "nickname": "ฟาง",
+          "team": "SKC NewHorizon"
+        },
+        {
+          "name": "Jirayu Supanichwattana",
+          "nickname": "กัปตัน",
+          "team": "SKC NewHorizon"
+        },
+        {
+          "name": "thanakrit Bunlak",
+          "nickname": "อิกคิว",
+          "team": "SKC NewHorizon"
+        },
+        {
+          "name": "Supapish Jaemdon",
+          "nickname": "ลิน",
+          "team": "SKC NewHorizon"
+        }
+      ],
+      "matched_submitters": [
+        {
+          "name": "Jirayu Supanichwattana",
+          "nickname": "กัปตัน",
+          "team": "SKC NewHorizon"
+        },
+        {
+          "name": "Supapish Jaemdon",
+          "nickname": "ลิน",
+          "team": "SKC NewHorizon"
+        },
+        {
+          "name": "Pornpimomlatnok",
+          "nickname": "ฟาง",
+          "team": "SKC NewHorizon"
+        },
+        {
+          "name": "Woraphitcha Chaiyawan",
+          "nickname": "เหมือง",
+          "team": "SKC NewHorizon"
+        },
+        {
+          "name": null,
+          "nickname": "เจ๋ง",
+          "team": "SKC NewHorizon"
+        }
+      ],
+      "submitted_count": 5,
+      "confidence": "high",
+      "notes": "Matched by submitted project link and confirmation-form team data."
+    },
+    {
+      "id": 2,
+      "name": "hackatech-public-SixDucks",
+      "url": "https://github.com/TleNotGoodAtPython/hackatech-public-SixDucks",
+      "team_names": [
+        "SixDucks"
+      ],
+      "creators": [
+        {
+          "name": "Ananta Noywat",
+          "nickname": "โอม",
+          "team": "SixDucks"
+        },
+        {
+          "name": "Chayapol Pansuk",
+          "nickname": "เวียร์",
+          "team": "SixDucks"
+        },
+        {
+          "name": "Kawkunya Listtilux",
+          "nickname": "เก้า",
+          "team": "SixDucks"
+        },
+        {
+          "name": "Supakorn Keawpraneet",
+          "nickname": "หนาว",
+          "team": "SixDucks"
+        },
+        {
+          "name": "Theerathon Dunla",
+          "nickname": "ไตเติ้ล",
+          "team": "SixDucks"
+        },
+        {
+          "name": "Weerapat",
+          "nickname": "Sirirotkul",
+          "team": "SixDucks"
+        }
+      ],
+      "matched_submitters": [
+        {
+          "name": "Chayapol Pansuk",
+          "nickname": "เวียร์",
+          "team": "SixDucks"
+        },
+        {
+          "name": "Ananta Noywat",
+          "nickname": "โอม",
+          "team": "SixDucks"
+        },
+        {
+          "name": "Supakorn Keawpraneet",
+          "nickname": "หนาว",
+          "team": "SixDucks"
+        },
+        {
+          "name": "Kawkunya Listtilux",
+          "nickname": "เก้า",
+          "team": "SixDucks"
+        }
+      ],
+      "submitted_count": 4,
+      "confidence": "high",
+      "notes": "Matched by submitted project link and confirmation-form team data."
+    },
+    {
+      "id": 3,
+      "name": "Welfare-Gap-Finder",
+      "url": "https://github.com/pngkcwtk/Welfare-Gap-Finder",
+      "team_names": [
+        "1นาทีเห็นเธอพึ่งตอบแชต",
+        "What’s your name?"
+      ],
+      "creators": [
+        {
+          "name": "Thanyalux Sivaipram",
+          "nickname": "ตังค์",
+          "team": "1นาทีเห็นเธอพึ่งตอบแชต"
+        },
+        {
+          "name": "Kasidetch",
+          "nickname": "เบสท์",
+          "team": "1นาทีเห็นเธอพึ่งตอบแชต"
+        },
+        {
+          "name": "Shayne Chawengchot",
+          "nickname": "เชนท์",
+          "team": "What’s your name?"
+        },
+        {
+          "name": "Patnagan Kachawuthakorn",
+          "nickname": "กัสจิ",
+          "team": "What’s your name?"
+        },
+        {
+          "name": "Patchara Pongvech",
+          "nickname": "เพชร",
+          "team": "What’s your name?"
+        },
+        {
+          "name": "Thiyarat Techathummaserd",
+          "nickname": "ทิยา",
+          "team": "What’s your name?"
+        }
+      ],
+      "matched_submitters": [
+        {
+          "name": "Thiyarat Techathummaserd",
+          "nickname": "ทิยา",
+          "team": "What’s your name?"
+        },
+        {
+          "name": "Kasidetch",
+          "nickname": "เบสท์",
+          "team": "1นาทีเห็นเธอพึ่งตอบแชต"
+        },
+        {
+          "name": "Thanyalux Sivaipram",
+          "nickname": "ตังค์",
+          "team": "1นาทีเห็นเธอพึ่งตอบแชต"
+        }
+      ],
+      "submitted_count": 3,
+      "confidence": "partial",
+      "notes": "Multiple teams submitted the same repo link; verify if this was a collaboration or a duplicated link."
+    },
+    {
+      "id": 4,
+      "name": "Hackatechwork",
+      "url": "https://46045-lab.github.io/Hackatechwork/",
+      "team_names": [
+        "พญามารน้ำท่วม"
+      ],
+      "creators": [
+        {
+          "name": "Chutipas Achariyaphaopan",
+          "nickname": "ฮีโร่",
+          "team": "พญามารน้ำท่วม"
+        },
+        {
+          "name": "Areeya Srikhajonlap",
+          "nickname": "เณเณ่",
+          "team": "พญามารน้ำท่วม"
+        },
+        {
+          "name": "Nanchayakorn Ariyawong",
+          "nickname": "ณัน",
+          "team": "พญามารน้ำท่วม"
+        },
+        {
+          "name": "Supakorn Opassathavorn",
+          "nickname": "มํ่า",
+          "team": "พญามารน้ำท่วม"
+        },
+        {
+          "name": "Maythawin Chakranon",
+          "nickname": "นาโน",
+          "team": "พญามารน้ำท่วม"
+        },
+        {
+          "name": "Sathapat Pipatpokin",
+          "nickname": "ตุลย์",
+          "team": "พญามารน้ำท่วม"
+        }
+      ],
+      "matched_submitters": [
+        {
+          "name": "Chutipas Achariyaphaopan",
+          "nickname": "ฮีโร่",
+          "team": "พญามารน้ำท่วม"
+        },
+        {
+          "name": "Nanchayakorn Ariyawong",
+          "nickname": "ณัน",
+          "team": "พญามารน้ำท่วม"
+        },
+        {
+          "name": "Sathapat Pipatpokin",
+          "nickname": "ตุลย์",
+          "team": "พญามารน้ำท่วม"
+        }
+      ],
+      "submitted_count": 3,
+      "confidence": "high",
+      "notes": "Matched by submitted project link and confirmation-form team data."
+    },
+    {
+      "id": 5,
+      "name": "smartpole",
+      "url": "https://oshik2551-cmd.github.io/smartpole/",
+      "team_names": [
+        "smnt67"
+      ],
+      "creators": [
+        {
+          "name": "Suchada Suda",
+          "nickname": "ไมล์",
+          "team": "smnt67"
+        },
+        {
+          "name": "Korawit Thammada",
+          "nickname": "นน",
+          "team": "smnt67"
+        },
+        {
+          "name": "Papangkorn Thongkum",
+          "nickname": "ไทม์",
+          "team": "smnt67"
+        },
+        {
+          "name": "Jiratchaya Petbut",
+          "nickname": "จีนนี่",
+          "team": "smnt67"
+        }
+      ],
+      "matched_submitters": [
+        {
+          "name": "Jiratchaya Petbut",
+          "nickname": "จีนนี่",
+          "team": "smnt67"
+        },
+        {
+          "name": "Papangkorn Thongkum",
+          "nickname": "ไทม์",
+          "team": "smnt67"
+        },
+        {
+          "name": "Suchada Suda",
+          "nickname": "ไมล์",
+          "team": "smnt67"
+        }
+      ],
+      "submitted_count": 3,
+      "confidence": "high",
+      "notes": "Matched by submitted project link and confirmation-form team data."
+    },
+    {
+      "id": 6,
+      "name": "hackatech-CareKan",
+      "url": "https://github.com/ksrddd/hackatech-CareKan",
+      "team_names": [
+        "เจ็ดจริงดิ !"
+      ],
+      "creators": [
+        {
+          "name": "Virada Puapichankun",
+          "nickname": "ผิงผิง",
+          "team": "เจ็ดจริงดิ !"
+        },
+        {
+          "name": "Insi Sapim",
+          "nickname": "ซี",
+          "team": "เจ็ดจริงดิ !"
+        },
+        {
+          "name": "Korawich",
+          "nickname": "เบส",
+          "team": "เจ็ดจริงดิ !"
+        },
+        {
+          "name": "Jinnanupas Preedeepoj",
+          "nickname": "วิอันนา",
+          "team": "เจ็ดจริงดิ !"
+        },
+        {
+          "name": "Sukhum Rudeemaetakul",
+          "nickname": "ขุมทรัพย์",
+          "team": "เจ็ดจริงดิ !"
+        },
+        {
+          "name": "Anawat Wongprachanukul",
+          "nickname": "อัน",
+          "team": "เจ็ดจริงดิ !"
+        }
+      ],
+      "matched_submitters": [
+        {
+          "name": "Sukhum Rudeemaetakul",
+          "nickname": "ขุมทรัพย์",
+          "team": "เจ็ดจริงดิ !"
+        },
+        {
+          "name": "Korawich",
+          "nickname": "เบส",
+          "team": "เจ็ดจริงดิ !"
+        },
+        {
+          "name": "Jinnanupas Preedeepoj",
+          "nickname": "วิอันนา",
+          "team": "เจ็ดจริงดิ !"
+        }
+      ],
+      "submitted_count": 3,
+      "confidence": "high",
+      "notes": "Matched by submitted project link and confirmation-form team data."
+    },
+    {
+      "id": 7,
+      "name": "CityFlowBKK",
+      "url": "https://github.com/tanth123-h/CityFlowBKK",
+      "team_names": [
+        "พยัคฆ์เมฆา x รัตติกาล"
+      ],
+      "creators": [
+        {
+          "name": "Ratchakrit Nittayacharoendet",
+          "nickname": "แทนคุณ",
+          "team": "พยัคฆ์เมฆา x รัตติกาล"
+        },
+        {
+          "name": "Yingkun Sukjaras",
+          "nickname": "กาน",
+          "team": "พยัคฆ์เมฆา x รัตติกาล"
+        },
+        {
+          "name": "Patcharapon Ladlao",
+          "nickname": "ตะวัน",
+          "team": "พยัคฆ์เมฆา x รัตติกาล"
+        },
+        {
+          "name": "Tankhun Srijankaew",
+          "nickname": "แทน",
+          "team": "พยัคฆ์เมฆา x รัตติกาล"
+        },
+        {
+          "name": "Rattapoom Mora",
+          "nickname": "รัฐภูมิ โมรา",
+          "team": "พยัคฆ์เมฆา x รัตติกาล"
+        },
+        {
+          "name": "Nuttanaphon Sarnnok",
+          "nickname": "โดนัท",
+          "team": "พยัคฆ์เมฆา x รัตติกาล"
+        },
+        {
+          "name": "Somprasong Thunnok",
+          "nickname": "เกาหลี",
+          "team": "พยัคฆ์เมฆา x รัตติกาล"
+        }
+      ],
+      "matched_submitters": [
+        {
+          "name": "Yingkun Sukjaras",
+          "nickname": "กาน",
+          "team": "พยัคฆ์เมฆา x รัตติกาล"
+        },
+        {
+          "name": "Ratchakrit Nittayacharoendet",
+          "nickname": "แทนคุณ",
+          "team": "พยัคฆ์เมฆา x รัตติกาล"
+        },
+        {
+          "name": "Rattapoom Mora",
+          "nickname": "รัฐภูมิ โมรา",
+          "team": "พยัคฆ์เมฆา x รัตติกาล"
+        }
+      ],
+      "submitted_count": 3,
+      "confidence": "high",
+      "notes": "Matched by submitted project link and confirmation-form team data."
+    },
+    {
+      "id": 8,
+      "name": "BKFloodSnap",
+      "url": "https://github.com/16Krae/BKFloodSnap",
+      "team_names": [
+        "KNovate"
+      ],
+      "creators": [
+        {
+          "name": "Krongthum Fonghem",
+          "nickname": "ทอย",
+          "team": "KNovate"
+        },
+        {
+          "name": "Patharanida Sukkhum",
+          "nickname": "เดีย",
+          "team": "KNovate"
+        },
+        {
+          "name": "Sarutiya Ngamcharoenkambai",
+          "nickname": "ทอฝัน",
+          "team": "KNovate"
+        },
+        {
+          "name": "Phenphitcha Teerayindeemeesuk",
+          "nickname": "แพนเค้ก",
+          "team": "KNovate"
+        },
+        {
+          "name": "Thitima Wongmalai",
+          "nickname": "ฟอร์จูน",
+          "team": "KNovate"
+        },
+        {
+          "name": "Dheiondrey Sonido",
+          "nickname": "เรนด์",
+          "team": "KNovate"
+        }
+      ],
+      "matched_submitters": [
+        {
+          "name": "Dheiondrey Sonido",
+          "nickname": "เรนด์",
+          "team": "KNovate"
+        },
+        {
+          "name": "Krongthum Fonghem",
+          "nickname": "ทอย",
+          "team": "KNovate"
+        }
+      ],
+      "submitted_count": 2,
+      "confidence": "high",
+      "notes": "Matched by submitted project link and confirmation-form team data."
+    },
+    {
+      "id": 9,
+      "name": "Meetfans",
+      "url": "https://github.com/razfordz/Meetfans",
+      "team_names": [
+        "NoPlan"
+      ],
+      "creators": [
+        {
+          "name": "Santsinee Amornvoraphak",
+          "nickname": "ผิงผิง",
+          "team": "NoPlan"
+        },
+        {
+          "name": "Narest Naengnoi",
+          "nickname": "อาร์ม",
+          "team": "NoPlan"
+        },
+        {
+          "name": "Benjamas Surarit",
+          "nickname": "ปาล์ม",
+          "team": "NoPlan"
+        },
+        {
+          "name": "Naratorn Bencharithiwong",
+          "nickname": "จีม่อน",
+          "team": "NoPlan"
+        },
+        {
+          "name": "Ritthichai Manop",
+          "nickname": "เบ้",
+          "team": "NoPlan"
+        },
+        {
+          "name": "Siwakorn Promsuwan",
+          "nickname": "ปอนด์",
+          "team": "NoPlan"
+        }
+      ],
+      "matched_submitters": [
+        {
+          "name": "Ritthichai Manop",
+          "nickname": "เบ้",
+          "team": "NoPlan"
+        },
+        {
+          "name": "Santsinee Amornvoraphak",
+          "nickname": "ผิงผิง",
+          "team": "NoPlan"
+        }
+      ],
+      "submitted_count": 2,
+      "confidence": "high",
+      "notes": "Matched by submitted project link and confirmation-form team data."
+    },
+    {
+      "id": 10,
+      "name": "chicken.4r1n-hackatech-2026",
+      "url": "https://github.com/Lewyns/chicken.4r1n-hackatech-2026",
+      "team_names": [
+        "chicken.4r1n"
+      ],
+      "creators": [
+        {
+          "name": "passanan Phongprasert",
+          "nickname": "ต้นกล้า",
+          "team": "chicken.4r1n"
+        },
+        {
+          "name": "Papada Jantornkhajornrat",
+          "nickname": "ปลาย",
+          "team": "chicken.4r1n"
+        },
+        {
+          "name": "Kannatta Anusongsak",
+          "nickname": "ปอแก้ว",
+          "team": "chicken.4r1n"
+        },
+        {
+          "name": "Pinpipat Tongto",
+          "nickname": "Cake",
+          "team": "chicken.4r1n"
+        },
+        {
+          "name": "Archawin Kerddee",
+          "nickname": "ฟิว",
+          "team": "chicken.4r1n"
+        },
+        {
+          "name": "Natcha Inthakornudom",
+          "nickname": "ลิลลี่",
+          "team": "chicken.4r1n"
+        }
+      ],
+      "matched_submitters": [
+        {
+          "name": "Natcha Inthakornudom",
+          "nickname": "ลิลลี่",
+          "team": "chicken.4r1n"
+        }
+      ],
+      "submitted_count": 1,
+      "confidence": "high",
+      "notes": "Matched by submitted project link and confirmation-form team data."
+    },
+    {
+      "id": 11,
+      "name": "JustServexRoadWisdom-",
+      "url": "https://github.com/wwwx3/JustServexRoadWisdom-",
+      "team_names": [
+        "AyaYA"
+      ],
+      "creators": [
+        {
+          "name": "Paisan Sapmee",
+          "nickname": "กัส",
+          "team": "AyaYA"
+        }
+      ],
+      "matched_submitters": [
+        {
+          "name": "Paisan Sapmee",
+          "nickname": "กัส",
+          "team": "AyaYA"
+        }
+      ],
+      "submitted_count": 1,
+      "confidence": "partial",
+      "notes": "Only exact matched participant/team is AyaYA. Because the repo name contains JustServe, manually verify whether JustServe (จัดเสิร์ฟ) should also be credited."
+    },
+    {
+      "id": 12,
+      "name": "fangmueang",
+      "url": "https://github.com/Ikkiw06/fangmueang",
+      "team_names": [
+        "Comsci"
+      ],
+      "creators": [
+        {
+          "name": "Gultida Phanrat",
+          "nickname": "เนม",
+          "team": "Comsci"
+        },
+        {
+          "name": "Jakkit Juansang",
+          "nickname": "เลอร์",
+          "team": "Comsci"
+        },
+        {
+          "name": "Chawanwit Poonchum",
+          "nickname": "อิคคิว",
+          "team": "Comsci"
+        },
+        {
+          "name": "Tawisa",
+          "nickname": "Treepat",
+          "team": "Comsci"
+        }
+      ],
+      "matched_submitters": [
+        {
+          "name": "Jakkit Juansang",
+          "nickname": "เลอร์",
+          "team": "Comsci"
+        },
+        {
+          "name": "Chawanwit Poonchum",
+          "nickname": "อิคคิว",
+          "team": "Comsci"
+        }
+      ],
+      "submitted_count": 2,
+      "confidence": "high",
+      "notes": "Matched by submitted project link and confirmation-form team data."
+    },
+    {
+      "id": 13,
+      "name": "Meetfan",
+      "url": "https://github.com/siwakron12/Meetfan",
+      "team_names": [
+        "NoPlan"
+      ],
+      "creators": [
+        {
+          "name": "Santsinee Amornvoraphak",
+          "nickname": "ผิงผิง",
+          "team": "NoPlan"
+        },
+        {
+          "name": "Narest Naengnoi",
+          "nickname": "อาร์ม",
+          "team": "NoPlan"
+        },
+        {
+          "name": "Benjamas Surarit",
+          "nickname": "ปาล์ม",
+          "team": "NoPlan"
+        },
+        {
+          "name": "Naratorn Bencharithiwong",
+          "nickname": "จีม่อน",
+          "team": "NoPlan"
+        },
+        {
+          "name": "Ritthichai Manop",
+          "nickname": "เบ้",
+          "team": "NoPlan"
+        },
+        {
+          "name": "Siwakorn Promsuwan",
+          "nickname": "ปอนด์",
+          "team": "NoPlan"
+        }
+      ],
+      "matched_submitters": [],
+      "submitted_count": 1,
+      "confidence": "inferred",
+      "notes": "No exact email match in confirmation form; likely NoPlan from related Meetfans project, repo owner Siwakorn, and submitted name/email clue."
+    },
+    {
+      "id": 14,
+      "name": "flow",
+      "url": "https://github.com/nicenathapong/flow",
+      "team_names": [
+        "CAIRO โฟลว์ตามฟีล"
+      ],
+      "creators": [
+        {
+          "name": "Theekarvin Watanadate",
+          "nickname": "มาร์คโก้",
+          "team": "CAIRO โฟลว์ตามฟีล"
+        },
+        {
+          "name": "Tanathon Chotnapalai",
+          "nickname": "อู๋กิม",
+          "team": "CAIRO โฟลว์ตามฟีล"
+        },
+        {
+          "name": "Nuengtida Siriprom",
+          "nickname": "ข้าวหอม",
+          "team": "CAIRO โฟลว์ตามฟีล"
+        },
+        {
+          "name": "Phakhavut Sahaphong",
+          "nickname": "ภควุฒิ สหพงษ์",
+          "team": "CAIRO โฟลว์ตามฟีล"
+        },
+        {
+          "name": "Nathapong Sopapol",
+          "nickname": "Nathapong Sopapol",
+          "team": "CAIRO โฟลว์ตามฟีล"
+        },
+        {
+          "name": "Emilia Turkbayev",
+          "nickname": "มีมี่",
+          "team": "CAIRO โฟลว์ตามฟีล"
+        },
+        {
+          "name": "Nathakorn Siritechasakul",
+          "nickname": "แทน",
+          "team": "CAIRO โฟลว์ตามฟีล"
+        }
+      ],
+      "matched_submitters": [
+        {
+          "name": "Tanathon Chotnapalai",
+          "nickname": "อู๋กิม",
+          "team": "CAIRO โฟลว์ตามฟีล"
+        }
+      ],
+      "submitted_count": 1,
+      "confidence": "high",
+      "notes": "Matched by submitted project link and confirmation-form team data."
+    },
+    {
+      "id": 15,
+      "name": "coolzone",
+      "url": "https://github.com/Lewyns/coolzone",
+      "team_names": [
+        "chicken.4r1n"
+      ],
+      "creators": [
+        {
+          "name": "passanan Phongprasert",
+          "nickname": "ต้นกล้า",
+          "team": "chicken.4r1n"
+        },
+        {
+          "name": "Papada Jantornkhajornrat",
+          "nickname": "ปลาย",
+          "team": "chicken.4r1n"
+        },
+        {
+          "name": "Kannatta Anusongsak",
+          "nickname": "ปอแก้ว",
+          "team": "chicken.4r1n"
+        },
+        {
+          "name": "Pinpipat Tongto",
+          "nickname": "Cake",
+          "team": "chicken.4r1n"
+        },
+        {
+          "name": "Archawin Kerddee",
+          "nickname": "ฟิว",
+          "team": "chicken.4r1n"
+        },
+        {
+          "name": "Natcha Inthakornudom",
+          "nickname": "ลิลลี่",
+          "team": "chicken.4r1n"
+        }
+      ],
+      "matched_submitters": [
+        {
+          "name": "Archawin Kerddee",
+          "nickname": "ฟิว",
+          "team": "chicken.4r1n"
+        }
+      ],
+      "submitted_count": 1,
+      "confidence": "high",
+      "notes": "Matched by submitted project link and confirmation-form team data."
+    },
+    {
+      "id": 16,
+      "name": "BkkMicroflow",
+      "url": "https://github.com/MyTxweProgrammit/BkkMicroflow",
+      "team_names": [
+        "Inwzaบดินทร2_007"
+      ],
+      "creators": [
+        {
+          "name": "Luksika Naksunthia",
+          "nickname": "น้ำเพชร",
+          "team": "Inwzaบดินทร2_007"
+        },
+        {
+          "name": "Nattawic Boonchin",
+          "nickname": "ชิน",
+          "team": "Inwzaบดินทร2_007"
+        },
+        {
+          "name": "Tatphum Chutwaesri",
+          "nickname": "โบ๊ท",
+          "team": "Inwzaบดินทร2_007"
+        },
+        {
+          "name": "Sirawichaya Keawgerd",
+          "nickname": "ปราชญ์",
+          "team": "Inwzaบดินทร2_007"
+        },
+        {
+          "name": "Maytee Sukchuang",
+          "nickname": "ธีร์",
+          "team": "Inwzaบดินทร2_007"
+        },
+        {
+          "name": "Phuvadol Thammasaro",
+          "nickname": "ภู",
+          "team": "Inwzaบดินทร2_007"
+        }
+      ],
+      "matched_submitters": [
+        {
+          "name": "Maytee Sukchuang",
+          "nickname": "ธีร์",
+          "team": "Inwzaบดินทร2_007"
+        },
+        {
+          "name": "Tatphum Chutwaesri",
+          "nickname": "โบ๊ท",
+          "team": "Inwzaบดินทร2_007"
+        },
+        {
+          "name": "Nattawic Boonchin",
+          "nickname": "ชิน",
+          "team": "Inwzaบดินทร2_007"
+        },
+        {
+          "name": "Sirawichaya Keawgerd",
+          "nickname": "ปราชญ์",
+          "team": "Inwzaบดินทร2_007"
+        }
+      ],
+      "submitted_count": 5,
+      "confidence": "partial",
+      "notes": "1 submitter email(s) did not have an exact confirmation-form match; team credits are based on matched submitters from the same repo."
+    },
+    {
+      "id": 17,
+      "name": "loop-to-token",
+      "url": "https://github.com/SOGUY144/loop-to-token",
+      "team_names": [
+        "อัศวินรัตติกาล"
+      ],
+      "creators": [
+        {
+          "name": "Panuphong Tunpichai",
+          "nickname": "แปม",
+          "team": "อัศวินรัตติกาล"
+        },
+        {
+          "name": "Papangkorn",
+          "nickname": "ปาล์ม",
+          "team": "อัศวินรัตติกาล"
+        },
+        {
+          "name": "Kraiwich Sukmanee",
+          "nickname": "ไมค์",
+          "team": "อัศวินรัตติกาล"
+        },
+        {
+          "name": "Wittawat Saelim",
+          "nickname": "ไบร์ท",
+          "team": "อัศวินรัตติกาล"
+        },
+        {
+          "name": "Max Saisawat",
+          "nickname": "แม็ก",
+          "team": "อัศวินรัตติกาล"
+        },
+        {
+          "name": "Natthaphon Maliwan",
+          "nickname": "ฟาน",
+          "team": "อัศวินรัตติกาล"
+        }
+      ],
+      "matched_submitters": [
+        {
+          "name": "Panuphong Tunpichai",
+          "nickname": "แปม",
+          "team": "อัศวินรัตติกาล"
+        },
+        {
+          "name": "Wittawat Saelim",
+          "nickname": "ไบร์ท",
+          "team": "อัศวินรัตติกาล"
+        },
+        {
+          "name": "Kraiwich Sukmanee",
+          "nickname": "ไมค์",
+          "team": "อัศวินรัตติกาล"
+        },
+        {
+          "name": "Natthaphon Maliwan",
+          "nickname": "ฟาน",
+          "team": "อัศวินรัตติกาล"
+        },
+        {
+          "name": "Papangkorn",
+          "nickname": "ปาล์ม",
+          "team": "อัศวินรัตติกาล"
+        }
+      ],
+      "submitted_count": 6,
+      "confidence": "partial",
+      "notes": "1 submitter email(s) did not have an exact confirmation-form match; team credits are based on matched submitters from the same repo."
+    },
+    {
+      "id": 18,
+      "name": "subsense-bkk",
+      "url": "https://github.com/picellmeem/subsense-bkk",
+      "team_names": [
+        "I love my job"
+      ],
+      "creators": [
+        {
+          "name": "Sirawoot Maingiw",
+          "nickname": "ติว",
+          "team": "I love my job"
+        },
+        {
+          "name": "Waranchit Chantachart",
+          "nickname": "มีน",
+          "team": "I love my job"
+        },
+        {
+          "name": "Pawares Rattanapracha",
+          "nickname": "ต้าร์",
+          "team": "I love my job"
+        },
+        {
+          "name": "Nawaporn Chomsalung",
+          "nickname": "เเจ๊บ",
+          "team": "I love my job"
+        },
+        {
+          "name": "Pimchanok Pratyaprasert",
+          "nickname": "มายมิ้นท์",
+          "team": "I love my job"
+        }
+      ],
+      "matched_submitters": [
+        {
+          "name": "Sirawoot Maingiw",
+          "nickname": "ติว",
+          "team": "I love my job"
+        },
+        {
+          "name": "Pimchanok Pratyaprasert",
+          "nickname": "มายมิ้นท์",
+          "team": "I love my job"
+        },
+        {
+          "name": "Nawaporn Chomsalung",
+          "nickname": "เเจ๊บ",
+          "team": "I love my job"
+        }
+      ],
+      "submitted_count": 3,
+      "confidence": "high",
+      "notes": "Matched by submitted project link and confirmation-form team data."
+    },
+    {
+      "id": 19,
+      "name": "JaiD",
+      "url": "https://github.com/Saltypoptato/JaiD",
+      "team_names": [
+        "Because you are future"
+      ],
+      "creators": [
+        {
+          "name": "Sarusha Kamonwatanakan",
+          "nickname": "ศรุชา กมลวัฒนการ",
+          "team": "Because you are future"
+        },
+        {
+          "name": "Benyapha Boonsong",
+          "nickname": "อันดา",
+          "team": "Because you are future"
+        },
+        {
+          "name": "Chutikan Prayoonrat",
+          "nickname": "นางสาวชุติกาญจน์ ประยูรรัตน์",
+          "team": "Because you are future"
+        },
+        {
+          "name": "Parlin Jasmine Seemuang",
+          "nickname": "แจ๊สมิน",
+          "team": "Because you are future"
+        },
+        {
+          "name": "Thirapat Sa-Nguanthai",
+          "nickname": "ซี",
+          "team": "Because you are future"
+        },
+        {
+          "name": "Arisara Homthong",
+          "nickname": "น้ำหวาน",
+          "team": "Because you are future"
+        }
+      ],
+      "matched_submitters": [
+        {
+          "name": "Chutikan Prayoonrat",
+          "nickname": "นางสาวชุติกาญจน์ ประยูรรัตน์",
+          "team": "Because you are future"
+        }
+      ],
+      "submitted_count": 2,
+      "confidence": "partial",
+      "notes": "1 submitter email(s) did not have an exact confirmation-form match; team credits are based on matched submitters from the same repo."
+    },
+    {
+      "id": 20,
+      "name": "bubble-ideas-hub",
+      "url": "https://github.com/Kulachat2/bubble-ideas-hub",
+      "team_names": [
+        "CONNEXT BKK"
+      ],
+      "creators": [
+        {
+          "name": "Trinai Phijitplakas",
+          "nickname": "อาเธอร์",
+          "team": "CONNEXT BKK"
+        },
+        {
+          "name": "Kulachat Tosayanond",
+          "nickname": "ชิน",
+          "team": "CONNEXT BKK"
+        },
+        {
+          "name": "Phumipatt Suntiasvaraporn",
+          "nickname": "เจมส์",
+          "team": "CONNEXT BKK"
+        },
+        {
+          "name": "ธีร ดิษรัฐกิจ",
+          "nickname": "ธีร",
+          "team": "CONNEXT BKK"
+        }
+      ],
+      "matched_submitters": [
+        {
+          "name": "Kulachat Tosayanond",
+          "nickname": "ชิน",
+          "team": "CONNEXT BKK"
+        }
+      ],
+      "submitted_count": 1,
+      "confidence": "inferred",
+      "notes": "Form submission email appears mistyped; repo owner/name matches Kulachat Tosayanond from team CONNEXT BKK."
+    },
+    {
+      "id": 21,
+      "name": "UrbanFlow",
+      "url": "https://github.com/Jaturapat-Buak/UrbanFlow",
+      "team_names": [
+        "U-R-banFlow"
+      ],
+      "creators": [
+        {
+          "name": "Thanapat Maneewong",
+          "nickname": "ฟิลด์",
+          "team": "U-R-banFlow"
+        },
+        {
+          "name": "Pongpetch Jungmongkolwong",
+          "nickname": "เมี่ยเจง",
+          "team": "U-R-banFlow"
+        },
+        {
+          "name": "Achira Sathiennopkao",
+          "nickname": "ชิ",
+          "team": "U-R-banFlow"
+        },
+        {
+          "name": "Jaturapat Kitimaphokin",
+          "nickname": "ไนน",
+          "team": "U-R-banFlow"
+        }
+      ],
+      "matched_submitters": [
+        {
+          "name": "Jaturapat Kitimaphokin",
+          "nickname": "ไนน",
+          "team": "U-R-banFlow"
+        }
+      ],
+      "submitted_count": 1,
+      "confidence": "high",
+      "notes": "Matched by submitted project link and confirmation-form team data."
+    },
+    {
+      "id": 22,
+      "name": "transitflow",
+      "url": "https://github.com/pluemW1/transitflow",
+      "team_names": [
+        "Flip flops"
+      ],
+      "creators": [
+        {
+          "name": "Ativit Chueaponthong",
+          "nickname": "ซัน",
+          "team": "Flip flops"
+        },
+        {
+          "name": "Porpiang Pukaew",
+          "nickname": "น้ำปั่น",
+          "team": "Flip flops"
+        },
+        {
+          "name": "Sirawit Danaimongkol",
+          "nickname": "ชิน",
+          "team": "Flip flops"
+        },
+        {
+          "name": "Wan-ek Phothavorn",
+          "nickname": "ปลื้ม",
+          "team": "Flip flops"
+        },
+        {
+          "name": "Natpakhan Rasee",
+          "nickname": "เปอร์",
+          "team": "Flip flops"
+        }
+      ],
+      "matched_submitters": [
+        {
+          "name": "Ativit Chueaponthong",
+          "nickname": "ซัน",
+          "team": "Flip flops"
+        }
+      ],
+      "submitted_count": 1,
+      "confidence": "high",
+      "notes": "Matched by submitted project link and confirmation-form team data."
+    }
+  ]
+}

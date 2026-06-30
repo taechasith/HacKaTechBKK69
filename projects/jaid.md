@@ -1,10 +1,13 @@
 # JaiD (ใจดี)
 
 *   **Original Link:** [https://github.com/Saltypoptato/JaiD](https://github.com/Saltypoptato/JaiD)
+*   **Link Type:** `GITHUB_REPO`
 *   **Repository / Deployment Status:** `ACTIVE`
 *   **Civic Problem Area:** `WELFARE`
-*   **Original Creator / Ownership:** `Saltypoptato`
-*   **License:** `Unspecified`
+*   **Original Team:** `Because you are future`
+*   **Creator Credits:** Sarusha Kamonwatanakan (ศรุชา กมลวัฒนการ), Benyapha Boonsong (อันดา), Chutikan Prayoonrat (นางสาวชุติกาญจน์ ประยูรรัตน์), Parlin Jasmine Seemuang (แจ๊สมิน), Thirapat Sa-Nguanthai (ซี), Arisara Homthong (น้ำหวาน)
+*   **Credit Confidence Status:** `PARTIAL`
+*   **License:** `Not specified`
 
 ---
 
@@ -20,4 +23,7 @@ Unspecified
 ---
 
 ## 📌 Archive Note
-*This page is part of the official public archive for HacKaTech BKK 69. Original ownership is fully preserved by the authors. Acts as an open bulletin for mutual aid requests.*
+*This page is part of the official public archive for HacKaTech BKK 69. 1 submitter email(s) did not have an exact confirmation-form match; team credits are based on matched submitters from the same repo.. Acts as an open bulletin for volunteer action.*
+
+## 🔒 Attribution Statement
+All projects remain the intellectual work of their original student creators and teams. This archive is a public documentation layer for discovery, education, and civic-tech continuity. No ownership transfer is implied.

@@ -1,23 +1,29 @@
 # SubSense BKK
 
 *   **Original Link:** [https://github.com/picellmeem/subsense-bkk](https://github.com/picellmeem/subsense-bkk)
+*   **Link Type:** `GITHUB_REPO`
 *   **Repository / Deployment Status:** `ACTIVE`
 *   **Civic Problem Area:** `PUBLIC INFRASTRUCTURE`
-*   **Original Creator / Ownership:** `Team "I love My Job" (picellmeem)`
-*   **License:** `Unspecified`
+*   **Original Team:** `I love my job`
+*   **Creator Credits:** Sirawoot Maingiw (ติว), Waranchit Chantachart (มีน), Pawares Rattanapracha (ต้าร์), Nawaporn Chomsalung (เเจ๊บ), Pimchanok Pratyaprasert (มายมิ้นท์)
+*   **Credit Confidence Status:** `CONFIRMED`
+*   **License:** `Not specified`
 
 ---
 
 ## 📝 English Summary
-A road collapse and sinkhole monitoring, risk-scoring, and warning system designed to transition city response from reactive repair to proactive cell-broadcast alerts.
+A deep-earth utility pipe detector mapping municipal conduits and underground hazards for construction safety.
 
 ## 🇹🇭 Thai Summary / บทคัดย่อภาษาไทย
-ระบบเฝ้าระวัง ตัดสินใจ และแจ้งเตือนความเสี่ยงถนนทรุดของกรุงเทพฯ โดยนำเสนอการแจ้งเตือนแบบเชิงรุกผ่าน Cell Broadcast
+ระบบ SubSense BKK ตรวจสอบโครงสร้างพื้นฐานท่อส่งน้ำและสายไฟใต้ดินเพื่อแจ้งเตือนความเสียหายของถนน
 
 ## 🛠️ Tech Stack
-HTML, CSS, JavaScript, BMA GIS Data
+JavaScript, Web App, BMA GIS
 
 ---
 
 ## 📌 Archive Note
-*This page is part of the official public archive for HacKaTech BKK 69. Original ownership is fully preserved by the authors. Developed under the HacKaTech 2026 URBAN track.*
+*This page is part of the official public archive for HacKaTech BKK 69. Matched by submitted project link and confirmation-form team data.. Demonstrated spatial visualization of road structural warnings.*
+
+## 🔒 Attribution Statement
+All projects remain the intellectual work of their original student creators and teams. This archive is a public documentation layer for discovery, education, and civic-tech continuity. No ownership transfer is implied.

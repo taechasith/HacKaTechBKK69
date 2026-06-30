@@ -1,6 +1,6 @@
-# Archive Creation Methodology 🛠️
+# HacKaTech BKK 69 Archive Methodology 🧪
 
-This archive was created to preserve the technological outputs of the HacKaTech BKK 69 hackathon (June 18-20, 2026). Below is the systematic approach taken to normalize and compile this repository.
+This page explains the technical methodology used to collect, normalize, verify, and document the open-source projects archived in this repository.
 
 ---
 
@@ -13,18 +13,18 @@ Raw project submissions often contained formatting inconsistencies, trailing spa
 
 ## 2. Deduplication & Cleanup
 *   Duplicate submissions were identified and consolidated.
-*   All inactive, private, or 404 links were purged from the active catalog to maintain a high-quality list of working repositories. The final archive catalogs **19 active project submissions**.
+*   All inactive, private, or 404 links were documented but kept in the active catalogue, clearly marked with a status of `INACTIVE / 404` to maintain metadata transparency.
+*   A total of **22 project submissions** (19 active, 3 inactive) are catalogued.
 
 ## 3. Link Verification
-Every normalized URL was checked programmatically to verify its availability status. Only verified, active links are included in the primary index.
+Every normalized URL was checked programmatically to verify its availability status. Only verified, active links are marked as `ACTIVE`. Messey, broken, or 404 links are preserved but marked as `INACTIVE`.
 
-## 4. Metadata Extraction
-For active repositories, public README documentation was programmatically analyzed to extract:
-*   Project summaries.
-*   Associated team names (e.g., *SixDucks*, *เจ็ดจริงดิ!*, *Flip flops*, *I love My Job*).
-*   Civic track classifications (e.g. Mobility, Flooding, Public Services, environment, Welfare).
-*   Inferred technical stacks (Node.js, Next.js, Android, Python, etc.).
+## 4. Metadata Extraction & Credits Matching
+Credits were compiled by cross-referencing registration records, submission repositories, and participant confirmation forms:
+*   **Confirmed (`confirmed`):** High confidence match where email records, submitter name, and team name map perfectly to the repository link.
+*   **Partial (`partial`):** Submitter email matched, but some team members did not submit exact confirmation forms, or multiple teams submitted the same repository.
+*   **Inferred (`inferred`):** Submitter mistyped an email or submitted name clues that were matched manually using repository owner metadata.
 
 ## 5. Preservation of Original Ownership
 *   **No ownership transfer is implied or claimed:** All codebases, designs, and copy remain the exclusive property of the original hackathon participants.
-*   **No License Assumption:** Where no license file was present in the participant's repository, the license has been marked as `Unspecified`.
+*   **No License Assumption:** Where no license file was present in the participant's repository, the license has been marked as `Not specified`.

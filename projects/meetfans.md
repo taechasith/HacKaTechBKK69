@@ -1,10 +1,13 @@
 # Meetfans
 
 *   **Original Link:** [https://github.com/razfordz/Meetfans](https://github.com/razfordz/Meetfans)
+*   **Link Type:** `GITHUB_REPO`
 *   **Repository / Deployment Status:** `ACTIVE`
 *   **Civic Problem Area:** `PUBLIC SERVICES`
-*   **Original Creator / Ownership:** `razfordz`
-*   **License:** `Unspecified`
+*   **Original Team:** `NoPlan`
+*   **Creator Credits:** Santsinee Amornvoraphak (ผิงผิง), Narest Naengnoi (อาร์ม), Benjamas Surarit (ปาล์ม), Naratorn Bencharithiwong (จีม่อน), Ritthichai Manop (เบ้), Siwakorn Promsuwan (ปอนด์)
+*   **Credit Confidence Status:** `CONFIRMED`
+*   **License:** `Not specified`
 
 ---
 
@@ -20,4 +23,7 @@ Next.js, TypeScript, Tailwind CSS
 ---
 
 ## 📌 Archive Note
-*This page is part of the official public archive for HacKaTech BKK 69. Original ownership is fully preserved by the authors. Shares template with the Meetfan repository.*
+*This page is part of the official public archive for HacKaTech BKK 69. Matched by submitted project link and confirmation-form team data.. Shares template architecture with the Meetfan project.*
+
+## 🔒 Attribution Statement
+All projects remain the intellectual work of their original student creators and teams. This archive is a public documentation layer for discovery, education, and civic-tech continuity. No ownership transfer is implied.

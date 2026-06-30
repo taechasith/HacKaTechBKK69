@@ -1,10 +1,13 @@
 # Thairutan (ไทยรู้ทัน)
 
 *   **Original Link:** [https://github.com/bexm169-ops/Thairutan_](https://github.com/bexm169-ops/Thairutan_)
+*   **Link Type:** `GITHUB_REPO`
 *   **Repository / Deployment Status:** `ACTIVE`
 *   **Civic Problem Area:** `COMMUNITY SAFETY`
-*   **Original Creator / Ownership:** `bexm169-ops`
-*   **License:** `Unspecified`
+*   **Original Team:** `SKC NewHorizon`
+*   **Creator Credits:** Woraphitcha Chaiyawan (เหมือง), เจ๋ง, Porramee Saraboon (ปรมีร์ สารบุญ), Pornpimomlatnok (ฟาง), Jirayu Supanichwattana (กัปตัน), thanakrit Bunlak (อิกคิว), Supapish Jaemdon (ลิน)
+*   **Credit Confidence Status:** `CONFIRMED`
+*   **License:** `Not specified`
 
 ---
 
@@ -20,4 +23,7 @@ Unspecified
 ---
 
 ## 📌 Archive Note
-*This page is part of the official public archive for HacKaTech BKK 69. Original ownership is fully preserved by the authors. Aggregates multi-source emergency warnings.*
+*This page is part of the official public archive for HacKaTech BKK 69. Matched by submitted project link and confirmation-form team data.. Aggregates multi-source emergency warnings.*
+
+## 🔒 Attribution Statement
+All projects remain the intellectual work of their original student creators and teams. This archive is a public documentation layer for discovery, education, and civic-tech continuity. No ownership transfer is implied.

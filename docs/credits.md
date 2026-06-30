@@ -1,38 +1,41 @@
 # HacKaTech BKK 69 Archive Credits 🌟
 
-Original ownership of all projects belongs fully to their respective participants. No ownership transfer is implied or claimed by this archive.
+Original ownership of all projects belongs fully to their respective participants. No ownership transfer is implied or claimed by this archive. This document catalogs all participant credits matched using submitted project links and confirmation-form team data.
 
 ---
 
-## 🛠️ Submitted Projects & Creators
+## 🛠️ Project Credit Directory
 
-| Project Name | Original Creator / GitHub | Link | Status |
-| :--- | :--- | :--- | :--- |
-| **BKFloodSnap** | `16Krae` | [GitHub](https://github.com/16Krae/BKFloodSnap) | `ACTIVE` |
-| **SubSense BKK** | Team "I love My Job" (`picellmeem`) | [GitHub](https://github.com/picellmeem/subsense-bkk) | `ACTIVE` |
-| **CoolZone** | `Lewyns` | [GitHub](https://github.com/Lewyns/coolzone) | `ACTIVE` |
-| **Welfare Gap Finder** | `pngkcwtk` | [GitHub](https://github.com/pngkcwtk/Welfare-Gap-Finder) | `ACTIVE` |
-| **Thinkkhaya** | Team "SixDucks" (`TleNotGoodAtPython`) | [GitHub](https://github.com/TleNotGoodAtPython/hackatech-public-SixDucks) | `ACTIVE` |
-| **CareKan** | Team "เจ็ดจริงดิ!" (`ksrddd`) | [GitHub](https://github.com/ksrddd/hackatech-CareKan) | `ACTIVE` |
-| **TransitFlow** | Team "Flip flops" (`pluemW1`) | [GitHub](https://github.com/pluemW1/transitflow) | `ACTIVE` |
-| **CityFlowBKK** | `tanth123-h` | [GitHub](https://github.com/tanth123-h/CityFlowBKK) | `ACTIVE` |
-| **Abjust (แอบจัดส์)** | `wwwx3` | [GitHub](https://github.com/wwwx3/JustServexRoadWisdom-) | `ACTIVE` |
-| **Flow** | `nicenathapong` | [GitHub](https://github.com/nicenathapong/flow) | `ACTIVE` |
-| **Smart Shade & Light** | RBAC Team (`oshik2551-cmd`) | [Deployment](https://oshik2551-cmd.github.io/smartpole/) | `ACTIVE` |
-| **Meetfan** | `siwakron12` | [GitHub](https://github.com/siwakron12/Meetfan) | `ACTIVE` |
-| **Meetfans** | `razfordz` | [GitHub](https://github.com/razfordz/Meetfans) | `ACTIVE` |
-| **BkkMicroflow** | `MyTxweProgrammit` | [GitHub](https://github.com/MyTxweProgrammit/BkkMicroflow) | `ACTIVE` |
-| **Loop to Token** | `SOGUY144` | [GitHub](https://github.com/SOGUY144/loop-to-token) | `ACTIVE` |
-| **JaiD (ใจดี)** | `Saltypoptato` | [GitHub](https://github.com/Saltypoptato/JaiD) | `ACTIVE` |
-| **FangMueang (ผังเมือง)** | `Ikkiw06` | [GitHub](https://github.com/Ikkiw06/fangmueang) | `ACTIVE` |
-| **Thairutan (ไทยรู้ทัน)** | `bexm169-ops` | [GitHub](https://github.com/bexm169-ops/Thairutan_) | `ACTIVE` |
-| **UrbanFlow** | `Jaturapat-Buak` | [GitHub](https://github.com/Jaturapat-Buak/UrbanFlow) | `ACTIVE` |
+| Project Name | Original Team | Creator Credits | Project Link | Credit Status | Archive Notes |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **BKFloodSnap** | KNovate | Krongthum Fonghem (ทอย); Patharanida Sukkhum (เดีย); Sarutiya Ngamcharoenkambai (ทอฝัน); Phenphitcha Teerayindeemeesuk (แพนเค้ก); Thitima Wongmalai (ฟอร์จูน); Dheiondrey Sonido (เรนด์) | [Link](https://github.com/16Krae/BKFloodSnap) | `CONFIRMED` | Matched by submitted project link and confirmation-form team data.. Includes citizen photo upload features. |
+| **BkkMicroflow** | Inwzaบดินทร2_007 | Luksika Naksunthia (น้ำเพชร); Nattawic Boonchin (ชิน); Tatphum Chutwaesri (โบ๊ท); Sirawichaya Keawgerd (ปราชญ์); Maytee Sukchuang (ธีร์); Phuvadol Thammasaro (ภู) | [Link](https://github.com/MyTxweProgrammit/BkkMicroflow) | `PARTIAL` | 1 submitter email(s) did not have an exact confirmation-form match; team credits are based on matched submitters from the same repo.. Telemetry monitoring prototype for drainage flows. |
+| **Bubble Ideas Hub** | CONNEXT BKK | Trinai Phijitplakas (อาเธอร์); Kulachat Tosayanond (ชิน); Phumipatt Suntiasvaraporn (เจมส์); ธีร ดิษรัฐกิจ (ธีร) | [Link](https://github.com/Kulachat2/bubble-ideas-hub) | `INFERRED` | Form submission email appears mistyped; repo owner/name matches Kulachat Tosayanond from team CONNEXT BKK.. Marked inactive. Deployed URL returned 404 during check. |
+| **chicken.4r1n-hackatech-2026** | chicken.4r1n | passanan Phongprasert (ต้นกล้า); Papada Jantornkhajornrat (ปลาย); Kannatta Anusongsak (ปอแก้ว); Pinpipat Tongto (Cake); Archawin Kerddee (ฟิว); Natcha Inthakornudom (ลิลลี่) | [Link](https://github.com/Lewyns/chicken.4r1n-hackatech-2026) | `CONFIRMED` | Matched by submitted project link and confirmation-form team data.. Marked inactive. Repository returned 404 during check. |
+| **CityFlowBKK** | พยัคฆ์เมฆา x รัตติกาล | Ratchakrit Nittayacharoendet (แทนคุณ); Yingkun Sukjaras (กาน); Patcharapon Ladlao (ตะวัน); Tankhun Srijankaew (แทน); Rattapoom Mora (รัฐภูมิ โมรา); Nuttanaphon Sarnnok (โดนัท); Somprasong Thunnok (เกาหลี) | [Link](https://github.com/tanth123-h/CityFlowBKK) | `CONFIRMED` | Matched by submitted project link and confirmation-form team data.. Features mobile maps and offline station listings. |
+| **CoolZone** | chicken.4r1n | passanan Phongprasert (ต้นกล้า); Papada Jantornkhajornrat (ปลาย); Kannatta Anusongsak (ปอแก้ว); Pinpipat Tongto (Cake); Archawin Kerddee (ฟิว); Natcha Inthakornudom (ลิลลี่) | [Link](https://github.com/Lewyns/coolzone) | `CONFIRMED` | Matched by submitted project link and confirmation-form team data.. Integrates spatial temperature mapping features. |
+| **FangMueang (ผังเมือง)** | Comsci | Gultida Phanrat (เนม); Jakkit Juansang (เลอร์); Chawanwit Poonchum (อิคคิว); Tawisa (Treepat) | [Link](https://github.com/Ikkiw06/fangmueang) | `CONFIRMED` | Matched by submitted project link and confirmation-form team data.. Aimed at democratizing access to urban mapping drafts. |
+| **Flow** | CAIRO โฟลว์ตามฟีล | Theekarvin Watanadate (มาร์คโก้); Tanathon Chotnapalai (อู๋กิม); Nuengtida Siriprom (ข้าวหอม); Phakhavut Sahaphong (ภควุฒิ สหพงษ์); Nathapong Sopapol (Nathapong Sopapol); Emilia Turkbayev (มีมี่); Nathakorn Siritechasakul (แทน) | [Link](https://github.com/nicenathapong/flow) | `CONFIRMED` | Matched by submitted project link and confirmation-form team data.. Integrates tasks with geographical coordinates for intelligent routing. |
+| **CareKan** | เจ็ดจริงดิ ! | Virada Puapichankun (ผิงผิง); Insi Sapim (ซี); Korawich (เบส); Jinnanupas Preedeepoj (วิอันนา); Sukhum Rudeemaetakul (ขุมทรัพย์); Anawat Wongprachanukul (อัน) | [Link](https://github.com/ksrddd/hackatech-CareKan) | `CONFIRMED` | Matched by submitted project link and confirmation-form team data.. Integrates municipal clinic directories. |
+| **Thinkkhaya (ถิงขยะ)** | SixDucks | Ananta Noywat (โอม); Chayapol Pansuk (เวียร์); Kawkunya Listtilux (เก้า); Supakorn Keawpraneet (หนาว); Theerathon Dunla (ไตเติ้ล); Weerapat (Sirirotkul) | [Link](https://github.com/TleNotGoodAtPython/hackatech-public-SixDucks) | `CONFIRMED` | Matched by submitted project link and confirmation-form team data.. Features ESP32 microcontrollers and ultrasonic sensors. |
+| **Hackatechwork** | พญามารน้ำท่วม | Chutipas Achariyaphaopan (ฮีโร่); Areeya Srikhajonlap (เณเณ่); Nanchayakorn Ariyawong (ณัน); Supakorn Opassathavorn (มํ่า); Maythawin Chakranon (นาโน); Sathapat Pipatpokin (ตุลย์) | [Link](https://46045-lab.github.io/Hackatechwork/) | `CONFIRMED` | Matched by submitted project link and confirmation-form team data.. Marked inactive. Deployed URL returned 404 during check. |
+| **JaiD (ใจดี)** | Because you are future | Sarusha Kamonwatanakan (ศรุชา กมลวัฒนการ); Benyapha Boonsong (อันดา); Chutikan Prayoonrat (นางสาวชุติกาญจน์ ประยูรรัตน์); Parlin Jasmine Seemuang (แจ๊สมิน); Thirapat Sa-Nguanthai (ซี); Arisara Homthong (น้ำหวาน) | [Link](https://github.com/Saltypoptato/JaiD) | `PARTIAL` | 1 submitter email(s) did not have an exact confirmation-form match; team credits are based on matched submitters from the same repo.. Acts as an open bulletin for volunteer action. |
+| **Abjust (แอบจัดส์)** | AyaYA | Paisan Sapmee (กัส) | [Link](https://github.com/wwwx3/JustServexRoadWisdom-) | `PARTIAL` | Only exact matched participant/team is AyaYA. Because the repo name contains JustServe, manually verify whether JustServe (จัดเสิร์ฟ) should also be credited.. Aimed at extending capabilities of centralized municipal report portals. |
+| **Loop to Token** | อัศวินรัตติกาล | Panuphong Tunpichai (แปม); Papangkorn (ปาล์ม); Kraiwich Sukmanee (ไมค์); Wittawat Saelim (ไบร์ท); Max Saisawat (แม็ก); Natthaphon Maliwan (ฟาน) | [Link](https://github.com/SOGUY144/loop-to-token) | `PARTIAL` | 1 submitter email(s) did not have an exact confirmation-form match; team credits are based on matched submitters from the same repo.. Aimed at gamifying community recycling rewards. |
+| **Meetfan** | NoPlan | Santsinee Amornvoraphak (ผิงผิง); Narest Naengnoi (อาร์ม); Benjamas Surarit (ปาล์ม); Naratorn Bencharithiwong (จีม่อน); Ritthichai Manop (เบ้); Siwakorn Promsuwan (ปอนด์) | [Link](https://github.com/siwakron12/Meetfan) | `INFERRED` | No exact email match in confirmation form; likely NoPlan from related Meetfans project, repo owner Siwakorn, and submitted name/email clue.. Shares template architecture with the Meetfans project. |
+| **Meetfans** | NoPlan | Santsinee Amornvoraphak (ผิงผิง); Narest Naengnoi (อาร์ม); Benjamas Surarit (ปาล์ม); Naratorn Bencharithiwong (จีม่อน); Ritthichai Manop (เบ้); Siwakorn Promsuwan (ปอนด์) | [Link](https://github.com/razfordz/Meetfans) | `CONFIRMED` | Matched by submitted project link and confirmation-form team data.. Shares template architecture with the Meetfan project. |
+| **Smart Shade & Light** | smnt67 | Suchada Suda (ไมล์); Korawit Thammada (นน); Papangkorn Thongkum (ไทม์); Jiratchaya Petbut (จีนนี่) | [Link](https://oshik2551-cmd.github.io/smartpole/) | `CONFIRMED` | Matched by submitted project link and confirmation-form team data.. Hosted on GitHub Pages. |
+| **SubSense BKK** | I love my job | Sirawoot Maingiw (ติว); Waranchit Chantachart (มีน); Pawares Rattanapracha (ต้าร์); Nawaporn Chomsalung (เเจ๊บ); Pimchanok Pratyaprasert (มายมิ้นท์) | [Link](https://github.com/picellmeem/subsense-bkk) | `CONFIRMED` | Matched by submitted project link and confirmation-form team data.. Demonstrated spatial visualization of road structural warnings. |
+| **Thairutan (ไทยรู้ทัน)** | SKC NewHorizon | Woraphitcha Chaiyawan (เหมือง); เจ๋ง; Porramee Saraboon (ปรมีร์ สารบุญ); Pornpimomlatnok (ฟาง); Jirayu Supanichwattana (กัปตัน); thanakrit Bunlak (อิกคิว); Supapish Jaemdon (ลิน) | [Link](https://github.com/bexm169-ops/Thairutan_) | `CONFIRMED` | Matched by submitted project link and confirmation-form team data.. Aggregates multi-source emergency warnings. |
+| **TransitFlow** | Flip flops | Ativit Chueaponthong (ซัน); Porpiang Pukaew (น้ำปั่น); Sirawit Danaimongkol (ชิน); Wan-ek Phothavorn (ปลื้ม); Natpakhan Rasee (เปอร์) | [Link](https://github.com/pluemW1/transitflow) | `CONFIRMED` | Matched by submitted project link and confirmation-form team data.. Includes commuter route options calculations. |
+| **UrbanFlow** | U-R-banFlow | Thanapat Maneewong (ฟิลด์); Pongpetch Jungmongkolwong (เมี่ยเจง); Achira Sathiennopkao (ชิ); Jaturapat Kitimaphokin (ไนน) | [Link](https://github.com/Jaturapat-Buak/UrbanFlow) | `CONFIRMED` | Matched by submitted project link and confirmation-form team data.. Features local server scripts and traffic density mockups. |
+| **Welfare Gap Finder** | 1นาทีเห็นเธอพึ่งตอบแชต | Thanyalux Sivaipram (ตังค์); Kasidetch (เบสท์); Shayne Chawengchot (เชนท์); Patnagan Kachawuthakorn (กัสจิ); Patchara Pongvech (เพชร); Thiyarat Techathummaserd (ทิยา) | [Link](https://github.com/pngkcwtk/Welfare-Gap-Finder) | `PARTIAL` | Multiple teams submitted the same repo link; verify if this was a collaboration or a duplicated link.. Utilizes localized vector embeddings for municipal welfare audits. |
 
 ---
 
-## 🤝 Organizing & Strategic Partners (Co-Creators)
+## 🤝 Event Co-Creators & Partners
 
-The success of HacKaTech BKK 69 was made possible through the collaboration of these dedicated co-creators:
+This massive sandbox was hand-crafted by:
 
 *   **💡🛸 CIA CreativeLab, CreativeLabTH Group** - Event conceptualization, branding, visual identity, and hackathon organization.
 *   **🇺🇲🇹🇭 Resilience Collective Thailand** (In collaboration with **MIT Urban Risk Lab, Massachusetts Institute of Technology**) - Providing urban science frameworks, crowdsourced resilience design methodology, and academic mentorship.

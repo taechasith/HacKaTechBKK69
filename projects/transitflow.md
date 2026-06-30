@@ -1,10 +1,13 @@
 # TransitFlow
 
 *   **Original Link:** [https://github.com/pluemW1/transitflow](https://github.com/pluemW1/transitflow)
+*   **Link Type:** `GITHUB_REPO`
 *   **Repository / Deployment Status:** `ACTIVE`
 *   **Civic Problem Area:** `MOBILITY`
-*   **Original Creator / Ownership:** `Team "Flip flops"`
-*   **License:** `Unspecified`
+*   **Original Team:** `Flip flops`
+*   **Creator Credits:** Ativit Chueaponthong (ซัน), Porpiang Pukaew (น้ำปั่น), Sirawit Danaimongkol (ชิน), Wan-ek Phothavorn (ปลื้ม), Natpakhan Rasee (เปอร์)
+*   **Credit Confidence Status:** `CONFIRMED`
+*   **License:** `Not specified`
 
 ---
 
@@ -20,4 +23,7 @@ Node.js, JavaScript, HTML, CSS
 ---
 
 ## 📌 Archive Note
-*This page is part of the official public archive for HacKaTech BKK 69. Original ownership is fully preserved by the authors. Includes structured route calculations and public transit maps.*
+*This page is part of the official public archive for HacKaTech BKK 69. Matched by submitted project link and confirmation-form team data.. Includes commuter route options calculations.*
+
+## 🔒 Attribution Statement
+All projects remain the intellectual work of their original student creators and teams. This archive is a public documentation layer for discovery, education, and civic-tech continuity. No ownership transfer is implied.

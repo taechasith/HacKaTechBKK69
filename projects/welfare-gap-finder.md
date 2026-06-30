@@ -1,23 +1,29 @@
 # Welfare Gap Finder
 
 *   **Original Link:** [https://github.com/pngkcwtk/Welfare-Gap-Finder](https://github.com/pngkcwtk/Welfare-Gap-Finder)
+*   **Link Type:** `GITHUB_REPO`
 *   **Repository / Deployment Status:** `ACTIVE`
 *   **Civic Problem Area:** `WELFARE`
-*   **Original Creator / Ownership:** `pngkcwtk`
-*   **License:** `Unspecified`
+*   **Original Team:** `1นาทีเห็นเธอพึ่งตอบแชต`
+*   **Creator Credits:** Thanyalux Sivaipram (ตังค์), Kasidetch (เบสท์), Shayne Chawengchot (เชนท์), Patnagan Kachawuthakorn (กัสจิ), Patchara Pongvech (เพชร), Thiyarat Techathummaserd (ทิยา)
+*   **Credit Confidence Status:** `PARTIAL`
+*   **License:** `Not specified`
 
 ---
 
 ## 📝 English Summary
-An AI-powered assistant for social workers to analyze citizen profile gaps, identifying missing public welfare and subsidy entitlements using a Multi-Agent RAG pipeline.
+A welfare budget gap visualizer designed to run localized RAG over municipal documents using the Typhoon LLM.
 
 ## 🇹🇭 Thai Summary / บทคัดย่อภาษาไทย
-ระบบ AI ผู้ช่วยเจ้าหน้าที่สังคมสงเคราะห์ สำหรับวิเคราะห์ช่องว่างสวัสดิการของประชาชนแต่ละคน เพื่อค้นหาว่าใครควรได้รับสิทธิ์อะไรเพิ่ม
+ระบบประเมินและค้นหาช่องว่างของงบประมาณและสวัสดิการชุมชนด้วยเทคโนโลยี RAG ร่วมกับ Typhoon LLM
 
 ## 🛠️ Tech Stack
-Python, Typhoon LLM, Multi-Agent RAG, HTML/JS
+Python, RAG, Typhoon LLM
 
 ---
 
 ## 📌 Archive Note
-*This page is part of the official public archive for HacKaTech BKK 69. Original ownership is fully preserved by the authors. Uses advanced Thai language models to match profiles with welfare benefits.*
+*This page is part of the official public archive for HacKaTech BKK 69. Multiple teams submitted the same repo link; verify if this was a collaboration or a duplicated link.. Utilizes localized vector embeddings for municipal welfare audits.*
+
+## 🔒 Attribution Statement
+All projects remain the intellectual work of their original student creators and teams. This archive is a public documentation layer for discovery, education, and civic-tech continuity. No ownership transfer is implied.

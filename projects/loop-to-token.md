@@ -1,10 +1,13 @@
 # Loop to Token
 
 *   **Original Link:** [https://github.com/SOGUY144/loop-to-token](https://github.com/SOGUY144/loop-to-token)
+*   **Link Type:** `GITHUB_REPO`
 *   **Repository / Deployment Status:** `ACTIVE`
 *   **Civic Problem Area:** `ENVIRONMENT`
-*   **Original Creator / Ownership:** `SOGUY144`
-*   **License:** `Unspecified`
+*   **Original Team:** `อัศวินรัตติกาล`
+*   **Creator Credits:** Panuphong Tunpichai (แปม), Papangkorn (ปาล์ม), Kraiwich Sukmanee (ไมค์), Wittawat Saelim (ไบร์ท), Max Saisawat (แม็ก), Natthaphon Maliwan (ฟาน)
+*   **Credit Confidence Status:** `PARTIAL`
+*   **License:** `Not specified`
 
 ---
 
@@ -20,4 +23,7 @@ Unspecified
 ---
 
 ## 📌 Archive Note
-*This page is part of the official public archive for HacKaTech BKK 69. Original ownership is fully preserved by the authors. Aimed at gamifying community-level recycling.*
+*This page is part of the official public archive for HacKaTech BKK 69. 1 submitter email(s) did not have an exact confirmation-form match; team credits are based on matched submitters from the same repo.. Aimed at gamifying community recycling rewards.*
+
+## 🔒 Attribution Statement
+All projects remain the intellectual work of their original student creators and teams. This archive is a public documentation layer for discovery, education, and civic-tech continuity. No ownership transfer is implied.
