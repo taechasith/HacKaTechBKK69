@@ -24,6 +24,6 @@ SOFTWARE.
 
 ### IMPORTANT: SCOPE DISCLAIMER
 
-This license applies ONLY to the textual documentation, data index (data/projects.json), and dashboard codebase (index.html, app.js, style.css) developed by the organizers and contained within this repository. 
+This license applies ONLY to the textual documentation and data index (data/projects.json) developed by the organizers and contained within this repository. 
 
 It does NOT cover or extend to the individual participant codebases, software libraries, and deployment repositories linked to in this index. Each participant project is owned exclusively by its original authors and teams, and is governed by its own independent licensing terms.
