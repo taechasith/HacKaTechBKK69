@@ -29,6 +29,45 @@ This repository archives the software, hardware, and deployment repositories bui
 *   📂 [`docs/project-intersections.md`](./docs/project-intersections.md) - Analysis of how submitted projects connect to civic-tech themes, youth perspectives, and event learning.
 *   📂 [`docs/license-and-attribution.md`](./docs/license-and-attribution.md) - IP protection and CC BY 4.0 terms.
 
+### Project Intersections Map
+
+```mermaid
+flowchart TD
+    A["HacKaTech 2026 project archive"] --> B["Public project links and sanitized credits"]
+    A --> C["Organizer-held participant review and confirmation data"]
+    B --> D["Project-by-project intersection analysis"]
+    C --> D
+
+    D --> E["Civic areas"]
+    D --> F["Technical / civic bridges"]
+    D --> G["Participant learning signals"]
+    D --> H["Event design signals"]
+    D --> I["Archive limitations"]
+
+    E --> E1["Flooding and climate resilience"]
+    E --> E2["Mobility and public transport"]
+    E --> E3["Welfare, rights, and public services"]
+    E --> E4["Infrastructure, sensing, and safety"]
+    E --> E5["Healthcare, care, and participation"]
+
+    F --> F1["Maps, dashboards, websites, APIs"]
+    F --> F2["Hardware, sensors, ESP32, boards"]
+    F --> F3["3D visualization and AI/LLM experiments"]
+
+    G --> G1["Scoping, feasibility, data quality"]
+    G --> G2["GitHub, teamwork, pitching"]
+    G --> G3["Law, governance, user safety"]
+
+    H --> H1["Communication and schedule clarity"]
+    H --> H2["Venue, power, screens, audio"]
+    H --> H3["Judging flow and demo readiness"]
+
+    I --> J["Next archive improvements"]
+    J --> J1["Team-confirmed summaries and civic tags"]
+    J --> J2["Screenshots, demo videos, licenses"]
+    J --> J3["Thai summaries and continuation notes"]
+```
+
 ---
 
 ## 📺 The Live Debate Showdown (ศึกดีเบตพลิกกรุง)
