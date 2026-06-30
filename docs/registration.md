@@ -53,10 +53,36 @@ Participants joining the online virtual hackathon track had to upload digital sc
 
 ---
 
-## 📅 Chronology of the Registration Process
+## 📅 Timeline & Selection Chronology (กำหนดการและขั้นตอน)
 
-1.  **May 20 – June 11, 2026:** Public registration open via Google Forms and shared social media posts. A total of 284 applications were collected.
-2.  **June 12 – June 14, 2026:** Review and selection phase by CIA CreativeLab and Resilience Collective Thailand.
-3.  **June 15, 2026:** Release of confirmed participant lists. Email invitations sent out.
-4.  **June 15 – June 17, 2026:** RSVP deadline. 110 participants confirmed for the Onsite track; 107 confirmed for the Online track.
-5.  **June 18, 2026 (Day 1):** Onsite registration desk opened at Floor 5A, NEXTOPIA, Siam Paragon. Staff verified paper documents (ID card copies and parental consent forms).
+### 🏢 Onsite Track Timeline
+*   **1 – 11 June 2026 (23:59):** Application Phase (เปิดรับสมัครเดี่ยว/ทีม เยาวชนอายุ 15–24 ปี).
+*   **12 June 2026:** Finalists Announced (ประกาศผู้ผ่านเข้ารอบ Onsite).
+*   **13 – 14 June 2026 (23:59):** RSVP Confirmation (ยืนยันสิทธิ์ Onsite).
+*   **18 – 20 June 2026:** Onsite Hackathon at NEXTOPIA, Siam Paragon.
+
+### 🌐 Special Online Track Timeline
+*   **23 June 2026 (23:59):** RSVP deadline for the Online round.
+    *   *Note:* Every team member must confirm and submit the registration fee individually.
+*   **27 June 2026:** 1-Day Pitch & Demo Prototype Round via Zoom.
+
+---
+
+## 🔍 Selection Criteria & Process (กระบวนการคัดเลือก)
+
+Finalist selection was conducted by the **CIA CreativeLab** team based on application details and the submitted **Project Document**.
+
+### Key Evaluation Criteria (เกณฑ์พิจารณาเบื้องต้น)
+1.  **Clarity of the Problem (ความชัดเจนของปัญหา):** Current or future city issues.
+2.  **Track Alignment (ความเหมาะสมกับ Track):** Fit for URBAN or PEOPLE tracks.
+3.  **Prototype Feasibility (ความเป็นไปได้):** Ability to build a Working Prototype within 1-2 days.
+4.  **Team Readiness (ความพร้อมของทีม):** Team composition and skills.
+5.  **Public Benefit (การใช้ Open Data):** Creative integration of open city data.
+6.  **Scalability (ศักยภาพการต่อยอด):** Growth and scalability post-event.
+
+---
+
+## 📞 Organizing Team Contacts (ติดต่อทีมงาน)
+For archiving queries, contact the team at:
+*   📧 **Email:** `creativelab.co.th@gmail.com`
+*   📱 **Facebook Page INBOX:** [CreativeLab TH](https://www.facebook.com/CreativeLabTH)

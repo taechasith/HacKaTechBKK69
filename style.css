@@ -241,6 +241,87 @@ body {
     gap: 0.4rem;
 }
 
+/* Tracks Section */
+.tracks-section {
+    margin-bottom: 3.5rem;
+}
+
+.tracks-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+    gap: 1.5rem;
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+.track-card {
+    background: var(--bg-card);
+    backdrop-filter: blur(8px);
+    border: 1px solid var(--border-color);
+    border-radius: 16px;
+    padding: 1.75rem;
+    display: flex;
+    gap: 1.25rem;
+    transition: all 0.3s ease;
+    align-items: flex-start;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+}
+
+.track-card:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 8px 25px rgba(99, 102, 241, 0.15);
+    border-color: rgba(99, 102, 241, 0.3);
+}
+
+.track-icon {
+    font-size: 1.75rem;
+    border-radius: 12px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 3.5rem;
+    height: 3.5rem;
+    flex-shrink: 0;
+}
+
+.track-card.urban-track .track-icon {
+    color: #38bdf8;
+    background: rgba(56, 189, 248, 0.1);
+}
+
+.track-card.people-track .track-icon {
+    color: #f43f5e;
+    background: rgba(244, 63, 94, 0.1);
+}
+
+.track-info {
+    display: flex;
+    flex-direction: column;
+    gap: 0.4rem;
+}
+
+.track-card h3 {
+    font-family: var(--font-heading);
+    font-size: 1.25rem;
+    font-weight: 700;
+    margin: 0;
+    color: #ffffff;
+}
+
+.track-desc-en {
+    font-size: 0.85rem;
+    color: var(--text-secondary);
+    line-height: 1.4;
+    margin: 0;
+}
+
+.track-desc-th {
+    font-size: 0.8rem;
+    color: rgba(255, 255, 255, 0.55);
+    line-height: 1.4;
+    margin: 0;
+}
+
 /* Search and Filter Section */
 .controls-section {
     background: var(--bg-card);

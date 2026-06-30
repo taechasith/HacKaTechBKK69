@@ -20,18 +20,48 @@
 
 ---
 
-## 💡 Why Teen-Led Civic Tech Matters in Thailand in 2026
+## 🏆 Competition Tracks (Track การแข่งขัน)
+Participants submitted projects matching one of two distinct categories:
 
-### 1. Transforming the Electoral Dialogue
-Historically, municipal election campaigns are fought on broad promises. By presenting working open-source prototypes a week before the **June 28, 2026 Governor Election**, HacKaTech BKK 69 established a new standard. Political candidates were forced to respond to working software/hardware solutions and detail how their administration would support and scale these public goods.
+### 1. URBAN Track: Techเพื่อพัฒนาเมืองกรุงเทพ (Urban Development Tech)
+Focuses on systemic city-level challenges, including:
+*   🚗 **Mobility & Transit:** Traffic flow optimization, public transport access, and navigation.
+*   🌊 **Water Management:** Flash-flood early detection and micro-drainage telemetry.
+*   🌱 **Environment & Health:** Air quality monitoring (PM2.5) and heat index warnings.
+*   🛡️ **Infrastructure & Safety:** Structural monitoring (sinkhole warning systems) and public space design.
 
-### 2. Digital-Native Problem Solving
-The current generation of teenagers (Gen Z and Gen Alpha) are digital natives who leverage:
-*   Generative AI coding assistants, which allow them to build complex web services and micro-databases in days.
-*   Ubiquitous cloud services and open APIs.
-*   Low-cost microcontrollers (ESP32, Raspberry Pi) to build local sensory networks.
+### 2. PEOPLE Track: Techเพื่อพัฒนาคนเมืองกรุงเทพ (Citizen Development Tech)
+Focuses on citizen quality of life and accessibility:
+*   🏥 **Healthcare & Welfare:** Public hospital appointment schedulers, welfare gap calculators, and mental health portals.
+*   🎓 **Education & Equality:** Resource distribution and civic engagement platforms.
+*   👥 **Community & Vulnerable Groups:** Interactive tools for civic participation and support networks.
 
-This agility allows them to deploy functional prototypes faster and cheaper than traditional municipal procurement cycles.
+---
 
-### 3. Mitigating Urgent Urban Hazards
-Bangkok faces acute challenges of climate-induced flooding, environmental heating, and PM2.5 air pollution. Centralized planning is often slow and lacks hyper-local granularity. Community-deployed sensors and crowdsourced transit mapping (such as those pioneered by the MIT Urban Risk Lab) act as an agile urban safety net.
+## 📄 Expectations & Deliverables (ผลลัพธ์ที่คาดหวัง)
+Rather than starting from scratch, teams had to prepare a project blueprint in advance and build a working prototype during the event. Each team had to submit a **Project Document** outlining:
+1.  **Problem Statement & Target Audience:** Clarity of the problem (future or current).
+2.  **Tech Stack & Architecture:** Feasibility of building a Working Prototype in 1-2 days.
+3.  **SDLC Phase 1-3:** Planning, Requirement Analysis, and Open-Source System Design.
+4.  **4M1E Analysis:** Manpower, Money, Material, Method, and Environment.
+5.  **Political Neutrality Check:** Explaining why the prototype is not currently aligned with any political party or candidate campaign.
+
+---
+
+## ⚔️ The Two Rounds: Onsite & Online
+
+### 🏢 Onsite Track: Hackathon + Live Debate (June 18-20, 2026)
+*   **Venue:** NEXTOPIA Community Center, Siam Paragon.
+*   **The Debate Day (June 20, 2026):**
+    *   The top 3 selected teams pitched their prototypes on-stage.
+    *   Teams asked questions directly to Bangkok Gubernatorial Candidates.
+    *   Candidates debated how the youth-built tech could scale under their administration.
+    *   *Awards:* National Trophies for the top 3 teams. E-Certificates for all onsite participants.
+
+### 🌐 Special Online Track: 1-Day Pitch + Demo (June 27, 2026)
+*   **Platform:** Zoom.
+*   **Context:** For teams with highly promising project concepts who didn't qualify for the physical Siam Paragon round.
+*   **The Pitch Day (June 27, 2026):**
+    *   Teams presented their working prototypes to judges and received detailed feedback.
+    *   *Perks:* E-Certificates from Resilience Collective Thailand, MIT Urban Risk Lab, KBTG, NEXTOPIA, and CIA CreativeLab.
+    *   *Awards:* 3 Winner Certificates, mentorship opportunities with event experts, and seed funding support.
