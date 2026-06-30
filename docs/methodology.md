@@ -31,16 +31,28 @@ Credits were compiled by cross-referencing registration records, submission repo
 
 ## Participant perspective and privacy method
 
-This archive uses participant perspective only in aggregated and privacy-preserving form. The organizer originally collected confirmation forms, review forms, project links, team names, and post-event reflections through private spreadsheets. Those files may contain personal information such as names, emails, phone numbers, payment proof, health notes, emergency contacts, and private comments. These raw files are not published in this repository.
+This archive uses participant perspective only in aggregated and privacy-preserving form. Private confirmation/review spreadsheets were used internally by the organizer. They included personal fields such as names, emails, phone numbers, payment proof, health notes, emergency contacts, and private comments, so they are not published in this repository.
+
+Organizer-held participant review and confirmation data was analyzed privately, then converted into aggregated, non-identifying themes before publication.
 
 For public documentation, the archive only uses:
 *   public project links,
 *   public or organizer-approved team/project credits,
 *   aggregated feedback themes,
 *   non-identifying learning themes,
-*   and project-level interpretation based on public repositories, submitted project links, and sanitized organizer analysis.
+*   project-level interpretation based on public repositories, submitted project links, and sanitized organizer analysis,
+*   and repo metadata such as project status, tech stack fields, civic-area fields, and license fields.
 
-The project-intersection analysis is therefore an interpretive archive layer, not a release of raw survey data. It is meant to help future organizers, educators, civic-tech communities, sponsors, researchers, and youth builders understand what kinds of public problems emerged from the hackathon and how participants learned through the process.
+The project-intersection analysis is therefore an interpretive archive layer, not a release of raw survey data. It is meant to help future organizers, educators, civic-tech communities, sponsors, researchers, and youth builders understand what kinds of public problems emerged from the hackathon and how participants learned through the process. Inferred civic tags are provisional and should be replaced by team-confirmed summaries when available.
+
+## Evidence levels
+
+The archive uses these evidence labels when interpreting projects:
+
+*   **Confirmed:** Supported by public repo data or team-confirmed/sanitized archive data.
+*   **Inferred:** Interpreted from project name, repo metadata, or aggregated non-identifying feedback.
+*   **Partial:** Some credit or project identity information needs manual confirmation.
+*   **Needs manual review:** Not enough public information to make a confident civic or technical claim.
 
 ## Data limitations
 

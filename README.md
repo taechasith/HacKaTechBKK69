@@ -31,41 +31,59 @@ This repository archives the software, hardware, and deployment repositories bui
 
 ### Project Intersections Map
 
+The archive now includes a deeper analysis layer in [`docs/project-intersections.md`](./docs/project-intersections.md). It reads the 22 archived prototypes as a map of civic problems, technical bridges, participant learning, and event-design lessons, while keeping private review data aggregated and non-identifying.
+
 ```mermaid
 flowchart TD
-    A["HacKaTechBKK69 project archive"] --> B["Public project links and sanitized credits"]
-    A --> C["Organizer-held participant review and confirmation data"]
-    B --> D["Project-by-project intersection analysis"]
-    C --> D
+    A["HacKaTechBKK69 Archive"] --> B["Public project links"]
+    A --> C["Sanitized credits"]
+    A --> D["Aggregated participant review themes"]
+    A --> E["Event documents and organizer notes"]
 
-    D --> E["Civic areas"]
-    D --> F["Technical / civic bridges"]
-    D --> G["Participant learning signals"]
-    D --> H["Event design signals"]
-    D --> I["Archive limitations"]
+    B --> F["22 archived project entries"]
+    C --> F
+    D --> G["Participant perspective layer"]
+    E --> H["Event design layer"]
 
-    E --> E1["Flooding and climate resilience"]
-    E --> E2["Mobility and public transport"]
-    E --> E3["Welfare, rights, and public services"]
-    E --> E4["Infrastructure, sensing, and safety"]
-    E --> E5["Healthcare, care, and participation"]
+    F --> I["Civic problem clusters"]
+    F --> J["Technical bridge patterns"]
+    G --> K["Learning signals"]
+    H --> L["Operational lessons"]
 
-    F --> F1["Maps, dashboards, websites, APIs"]
-    F --> F2["Hardware, sensors, ESP32, boards"]
-    F --> F3["3D visualization and AI/LLM experiments"]
+    I --> I1["Flooding and climate resilience"]
+    I --> I2["Mobility and transit"]
+    I --> I3["Welfare, rights, and public services"]
+    I --> I4["Infrastructure, sensing, and safety"]
+    I --> I5["Healthcare, care, and participation"]
+    I --> I6["Environment and circular systems"]
 
-    G --> G1["Scoping, feasibility, data quality"]
-    G --> G2["GitHub, teamwork, pitching"]
-    G --> G3["Law, governance, user safety"]
+    J --> J1["Maps and routing APIs"]
+    J --> J2["Web apps and dashboards"]
+    J --> J3["Hardware, ESP32, sensors"]
+    J --> J4["AI, RAG, LLM experiments"]
+    J --> J5["3D visualization and simulations"]
 
-    H --> H1["Communication and schedule clarity"]
-    H --> H2["Venue, power, screens, audio"]
-    H --> H3["Judging flow and demo readiness"]
+    K --> K1["Scoping and feasibility"]
+    K --> K2["GitHub and open-source practice"]
+    K --> K3["Pitching and storytelling"]
+    K --> K4["Law, governance, user safety"]
+    K --> K5["Data quality and public evidence"]
 
-    I --> J["Next archive improvements"]
-    J --> J1["Team-confirmed summaries and civic tags"]
-    J --> J2["Screenshots, demo videos, licenses"]
-    J --> J3["Thai summaries and continuation notes"]
+    L --> L1["Communication and schedule clarity"]
+    L --> L2["Venue, power, audio, screen readiness"]
+    L --> L3["Judging transparency"]
+    L --> L4["Demo dry-runs and technical backup"]
+    L --> L5["Post-result coordination"]
+
+    I --> M["Project Intersections Analysis"]
+    J --> M
+    K --> M
+    L --> M
+
+    M --> N["Better archive documentation"]
+    M --> O["Team-confirmed summaries"]
+    M --> P["Screenshots, demos, licenses"]
+    M --> Q["Future event design improvements"]
 ```
 
 ---
@@ -97,6 +115,8 @@ Check out [registration.md](./docs/registration.md) for details on document form
 Here is the complete project directory (including 19 active projects and 3 inactive repositories preserved for historical context). 
 
 > ⚠️ **Note on unpublished prototypes & mentoring limits:** While the main active repositories are listed below, there were more projects created at the event. Due to the intense 48-hour timeline and limited technical git-mentoring, some teams ran their code locally or developed on pre-existing web platforms rather than publishing standalone public repositories. We are committed to improving technical onboarding and guidance in our next HacKaTech events.
+
+> **Archive interpretation note:** Civic areas, tech stacks, and status labels are based on public repositories, sanitized archive review, and organizer-approved project metadata. Some tags are provisional and should be confirmed by teams before being treated as final descriptions.
 
 | Project Name | Primary Creator / Team | Civic Focus | Tech Stack | Link | Status |
 | :--- | :--- | :--- | :--- | :--- | :--- |
