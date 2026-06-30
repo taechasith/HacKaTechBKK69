@@ -24,7 +24,7 @@ The event saw high engagement from the Thai youth civic tech community:
 
 To apply for HacKaTechBKK69, every individual or team had to complete and submit the official **Project Document** containing their design layout. Applicants were required to download a copy of this template, fill in their project specs, and upload the final document (or a Google Docs link) in their registration form:
 
-*   **Official Project Document Template:** 📑 [Template - HacKaTech_ ศึกชิงเก้าอี้ผู้ว่ากทม69 (2).docx](./Template%20-%20HacKaTech_%20%E0%B8%A8%E0%B8%B6%E0%B8%81%E0%B8%8A%E0%B8%B4%E0%B8%87%E0%B9%80%E0%B8%81%E0%B9%82%E0%B8%B2%E0%B8%AD%E0%B8%B5%E0%B9%89%E0%B8%95%E0%B8%B9%E0%B9%89%E0%B8%A7%E0%B9%88%E0%B8%B2%E0%B8%81%E0%B8%97%E0%B8%A169%20(2).docx)
+*   **Official Project Document Template:** 📑 [Template - HacKaTech_ ศึกชิงเก้าอี้ผู้ว่ากทม69 (2).docx](https://docs.google.com/document/d/1-kiJSC29RRuvUsglZLK28o3u8mvVdROgNUAKr6ugGxo/edit?tab=t.0)
 
 ---
 
