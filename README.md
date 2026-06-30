@@ -79,6 +79,17 @@ Here are the active repos that survived the code storm and are ready for you to 
 
 ---
 
+## 💌 A Message from the Organizers (ถ้อยแถลงจากผู้จัดงาน)
+> **"เพราะการเปลี่ยนแปลงสังคม ไม่ได้เริ่มต้นจากคนที่มีอำนาจเสมอไป แต่อาจเริ่มจากคนตัวเล็ก ๆ ที่กล้าตั้งคำถาม กล้าลงมือทำ และกล้าเชื่อว่าอนาคตสามารถดีกว่าเดิมได้"**  
+
+This event marks the kickoff of the **HacKaTech** series! We will continue building and expanding under the hashtags **#HacKaTech** and **#HacKaTechศึกพลิกอนาคตกทม**. Follow the journey on social media via **#HacKaTechศึกพลิกอนาคตกทม69**. 
+
+A massive thank you to all teen builders who joined and co-created this historic milestone. For the first time in Thailand, the voices of hundreds of youth tech builders reached the ears of those in political power. Keep fighting for your beliefs in Civic Tech!
+
+*   📸 **Explore the Gallery:** [HacKaTech BKK 69 Photo Gallery / ภาพบรรยากาศทั้งหมด](https://drive.google.com/drive/folders/197ceTguPbsm9_-i00oghz_Ydl-ugVHde?usp=drive_link)
+
+---
+
 ## 🤝 Event Co-Creators & Partners
 
 This massive sandbox was hand-crafted by:

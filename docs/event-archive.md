@@ -70,3 +70,26 @@ Rather than starting from scratch, teams had to prepare a project blueprint in a
     *   Teams presented their working prototypes to judges and received detailed feedback.
     *   *Perks:* E-Certificates from Resilience Collective Thailand, MIT Urban Risk Lab, KBTG, NEXTOPIA, and CIA CreativeLab.
     *   *Awards:* 3 Winner Certificates, mentorship opportunities with event experts, and seed funding support.
+
+---
+
+## 💌 Message from the Organizers (ถ้อยแถลงจากผู้จัดงาน)
+
+> **"เพราะการเปลี่ยนแปลงสังคม ไม่ได้เริ่มต้นจากคนที่มีอำนาจเสมอไป แต่อาจเริ่มจากคนตัวเล็ก ๆ ที่กล้าตั้งคำถาม กล้าลงมือทำ และกล้าเชื่อว่าอนาคตสามารถดีกว่าเดิมได้"**  
+> *Social change doesn't always start with those in power. It can start from ordinary, small people who dare to ask questions, dare to take action, and dare to believe that the future can be better.*
+
+ผู้จัดตั้งใจทำให้งานนี้เป็นตัวเปิดซีรีส์ **HacKaTech** ที่จะมีอีกหลากหลายงานหลังจากนี้ในแคมเปญ `#HacKaTech` และจะยังคงขับเคลื่อนต่อใน `#HacKaTechศึกพลิกอนาคตกทม` หากต้องการติดตามการเดินทางครั้งนี้บนโซเชียลมีเดีย สามารถเข้ามาดูและร่วมพูดคุยได้ที่แฮชแท็ก **#HacKaTechศึกพลิกอนาคตกทม69**
+
+พวกเราขอขอบคุณผู้เข้าแข่งขันทุกคนจากงาน **#HacKaTechศึกพลิกอนาคตกทม69** ทุกคนที่มาร่วมเป็นส่วนหนึ่งของประวัติศาสตร์ครั้งนี้ 
+
+นี่คือครั้งแรกในประเทศไทย ที่เสียงของเยาวชนสายเทคนับร้อยชีวิต ได้เดินทางไปถึงหูของผู้ที่มีอำนาจและอิทธิพลในแวดวงการเมืองไทย แม้นวัตกรรมที่พวกท่านทำจะถูกนำไปสานต่อโดยโครงการนี้หรือไม่ก็ตาม คณะผู้จัดขอให้พวกท่านสู้ต่อไปกับความเชื่อที่มีต่อ **เทคโนโลยีเพื่อสังคม (Civic Tech)**
+
+ทุกรางวัล ทุกมิตรภาพ เสียงหัวเราะ และความเห็นจากคณะกรรมการ ขอให้มันเป็นแรงผลักดันและแรงบันดาลใจให้พวกท่านเดินทางต่อไปอย่าได้ลดละ เราเชื่ออย่างสุดหัวใจว่างานนี้จะเป็นก้าวแรกที่ทำให้เยาวชนนักสร้างสรรค์และเนิร์ดสายเทคอีกหลายคน ได้ตระหนักรู้ว่าเสียงและผลงานของตนเองนั้นดังและมีความหมายเพียงใด
+
+ขอให้ความกล้าหาญที่เกิดขึ้นบนเวทีแห่งนี้ ไม่จบลงพร้อมกับวันปิดงานแข่งขัน แต่ขอให้มันเติบโตต่อไปในห้องเรียน มหาวิทยาลัย สตาร์ทอัพ ชุมชน และทุก ๆ พื้นที่ที่พวกท่านเลือกเพื่อสร้างสรรค์ความเปลี่ยนแปลงให้กับสังคมสืบไป
+
+---
+
+### 📸 Photo Gallery & Atmosphere (ภาพบรรยากาศทั้งหมด)
+Relive the moments and explore the full photo archive of HacKaTech BKK 69:
+*   📂 **Google Drive Folder:** [HacKaTech BKK 69 Photo Gallery / ภาพบรรยากาศทั้งหมด](https://drive.google.com/drive/folders/197ceTguPbsm9_-i00oghz_Ydl-ugVHde?usp=drive_link)
