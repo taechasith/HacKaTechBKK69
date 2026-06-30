@@ -66,12 +66,19 @@ Participants joining the online virtual hackathon track had to upload digital sc
 *   **1 – 11 June 2026 (23:59):** Application Phase (เปิดรับสมัครเดี่ยว/ทีม เยาวชนอายุ 15–24 ปี).
 *   **12 June 2026:** Finalists Announced (ประกาศผู้ผ่านเข้ารอบ Onsite).
 *   **13 – 14 June 2026 (23:59):** RSVP Confirmation (ยืนยันสิทธิ์ Onsite).
-*   **18 – 20 June 2026:** Onsite Hackathon at NEXTOPIA, Siam Paragon.
+*   **18 – 19 June 2026:** Onsite Hackathon at NEXTOPIA, Siam Paragon.
+    *   *Visual Schedule:*  
+        ![Onsite Hackathon Schedule](../assets/hackday.png)
+*   **20 June 2026 (12:30 - 16:30):** Onsite Debate Day with Governor Candidates.
+    *   *Visual Schedule:*  
+        ![Onsite Debate Day Schedule](../assets/debateday.png)
 
 ### 🌐 Special Online Track Timeline
 *   **23 June 2026 (23:59):** RSVP deadline for the Online round.
     *   *Note:* Every team member must confirm and submit the registration fee individually.
 *   **27 June 2026:** 1-Day Pitch & Demo Prototype Round via Zoom.
+    *   *Visual Schedule:*  
+        ![Online Pitch Day Schedule](../assets/pitchday.png)
 
 ---
 

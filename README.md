@@ -1,7 +1,7 @@
 # 🛸 HacKaTech BKK 69: The Ultimate Youth Civic Tech Archive 🇹🇭
 
 <p align="center">
-  <img src="assets/header.png" alt="HacKaTech BKK 69 Banner" width="100%" style="border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.4);" />
+  <img src="assets/header.gif" alt="HacKaTech BKK 69 Banner" width="100%" style="border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.4);" />
 </p>
 
 > **"Code the city before the city codes you."**  
