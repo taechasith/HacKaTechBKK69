@@ -114,7 +114,7 @@ Check out [registration.md](./docs/registration.md) for details on document form
 
 Here is the complete project directory (including 19 active projects and 3 inactive repositories preserved for historical context). 
 
-> ⚠️ **Note on unpublished prototypes & mentoring limits:** While the main active repositories are listed below, there were more projects created at the event. Due to the intense 48-hour timeline and limited technical git-mentoring, some teams ran their code locally or developed on pre-existing web platforms rather than publishing standalone public repositories. We are committed to improving technical onboarding and guidance in our next HacKaTech events.
+> ⚠️ **Note on unpublished prototypes & mentoring limits:** While the main active repositories are listed below, there were more projects created at the event. Due to the intense 24-hour timeline and limited technical git-mentoring, some teams ran their code locally or developed on pre-existing web platforms rather than publishing standalone public repositories. We are committed to improving technical onboarding and guidance in our next HacKaTech events.
 
 > **Archive interpretation note:** Civic areas, tech stacks, and status labels are based on public repositories, sanitized archive review, and organizer-approved project metadata. Some tags are provisional and should be confirmed by teams before being treated as final descriptions.
 
