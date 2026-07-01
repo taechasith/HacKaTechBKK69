@@ -10,7 +10,7 @@
 
 ---
 
-## ⚡ Hey, Yo! What is this?
+## ⚡ Hey, Yo!
 Welcome to the handcrafted, official time-capsule repository of **HacKaTechBKK69** (BE 2569 / 2026 CE)! 
 
 From **June 18-20, 2026**, Bangkok's most active teen builders (ages 15–24) locked themselves in the NEXTOPIA Community Center (Siam Paragon). The mission? Build open-source, politically neutral city tech. The twist? A week later was the **June 28, 2026 Bangkok Governor Election**, and our top teams pitched their working code live on-stage directly to the Gubernatorial Candidates!
